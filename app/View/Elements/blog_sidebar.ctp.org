@@ -1,0 +1,72 @@
+
+    <div class="col-md-3 sidebar">
+        <div class="side-title">Details</div>
+
+        <div class="side-content"><p><?php echo ''; ?></p></div>
+        <div class="side-title">Last Comments</div>
+        <div class="side-content" >
+            <ul  class="list-unstyled" id="blog_comment" >
+           <!-- <?php /*foreach ($lastComments as $key => $lastComment) {
+                //var_dump($lastComment);
+            */?>
+                <li><p><?php /*echo $lastComment['Comment']['author']['user_type'] */?>'s Comment<br><?php /*echo $lastComment['Comment']['data'] */?> <small><?php /*echo $this->time->niceshort($lastComment['Comment']['created']) */?></small></p></li>
+
+        <div class="side-content"><p>Graphic Design Blog</p></div>
+        <div class="side-title" id="last_comment">Last Comments</div>
+
+        <!-- <?php echo $this->layout;?> -->
+
+        <div class="side-content">
+            <ul class="list-unstyled">
+            <?php foreach ($lastComments as $key => $lastComment) {
+                #var_dump($lastComment);
+              // echo $this->layout;
+            ?>
+                <li><p><?php echo $lastComment['Comment']['author']['user_type'] ?>'s Comment<br><?php echo $lastComment['Comment']['data'] ?> <small><?php echo $this->time->niceshort($lastComment['Comment']['created']) ?></small></p></li>
+
+                <li class="divider"></li>
+                --><?php /*} */?>
+              <!-- <?php /*echo $comment; */?>--><?php /*echo $this->layout; */?>
+<!--                <li> </li>-->
+
+            </ul>
+        </div>
+        <div class="side-title">Last Registered</div>
+        <div class="side-content">
+            <ul class="list-unstyled">
+            <?php foreach ($lastRegister as $key => $lastReg) {
+            #var_dump($lastReg);
+            ?>
+                <li><p><?php echo $lastReg['User']['first_name'].' '.$lastReg['User']['last_name'] ?> <small><?php echo $this->time->niceshort($lastReg['User']['created']) ?></small></p></li>
+                <li class="divider"></li>
+            <?php } ?>
+            </ul>
+        </div>
+        <div class="side-title">Archives</div>
+        <div class="side-content">
+
+        <?php
+ $curr_year = '';
+ foreach ($archives as $archive):
+ if ($curr_year != substr($archive[0]['dd'],0,4)) {
+ if ($curr_year != '') {
+ echo '</ul>';
+ echo '</li>';
+ }
+ echo '<li>'.substr($archive[0]['dd'],0,4);
+ echo '<ul>';
+ }
+ echo $this->html->tag('li',$this->html->link(substr($archive[0]['dd'],4).'  ('.$archive[0]['numblogs'].')', array('controller'=>'Blogs',  'action'=>'catalog', 'date'=>str_replace(' ', '-',  $archive[0]['dd']))));
+ $curr_year = substr($archive[0]['dd'],0,4);
+ endforeach;
+ ?>
+<!--             <ul class="list-unstyled">
+                <li><a href="#">September 2014</a></li>
+                <li><a href="#">August 2014</a></li>
+                <li><a href="#">July 2014</a></li>
+                <li><a href="#">June 2014</a></li>
+            </ul> -->
+        </div>
+    </div>
+</div>
+

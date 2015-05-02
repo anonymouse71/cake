@@ -1,0 +1,459 @@
+<style type="text/css">
+	#treeView{
+		margin-left: 13px;
+	}
+	#treeView li strong{
+		font-size: 15px;
+	}
+</style>
+
+<div class="panel panel-default">
+    <div class="panel-heading"><h2 class="panel-title"><i class="icon-table"></i> <?php echo __('Lesson Information'); ?> </h2></div>
+	<table class="table table-striped">
+
+
+<tr>		<td><?php echo __('Image'); ?></td>
+		<td>
+			<img style="width:300px" class="img-response" src="<?php echo $this->webroot . $lesson['Lesson']['image'] ?>" alt="<?php $lesson['Lesson']['image'] ?>">
+		</td>
+</tr>
+
+<tr>		<td><?php echo __('Category'); ?></td>
+		<td>
+			<?php echo $this->Html->link($lesson['Category']['name'], array('controller' => 'categories', 'action' => 'view', $lesson['Category']['id'])); ?>
+			&nbsp;
+		</td>
+</tr>
+<tr>		<td><?php echo __('Name'); ?></td>
+		<td>
+			<?php echo h($lesson['Lesson']['name']); ?>
+			&nbsp;
+		</td>
+</tr>
+<tr>		<td><?php echo __('Price'); ?></td>
+		<td>
+			<?php echo h($lesson['Lesson']['price']); ?>
+			&nbsp;
+		</td>
+</tr>
+<tr>		<td><?php echo __('Active'); ?></td>
+		<td>
+			<?php echo h($lesson['Lesson']['active']); ?>
+			&nbsp;
+		</td>
+</tr>
+<tr>		<td><?php echo __('Show Catalog'); ?></td>
+		<td>
+			<?php echo h($lesson['Lesson']['show_catalog']); ?>
+			&nbsp;
+		</td>
+</tr>
+<tr>		<td><?php echo __('Duration'); ?></td>
+		<td>
+			<?php echo h($lesson['Lesson']['duration']); ?>
+			&nbsp;
+		</td>
+</tr>
+<!--<tr>		<td>--><?php //echo __('Access Limit'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['access_limit']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Options'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['options']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Course Only'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['course_only']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Certificate'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['certificate']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('From Timestamp'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['from_timestamp']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('To Timestamp'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['to_timestamp']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Shift'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['shift']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Publish'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['publish']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Share Folder'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['share_folder']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Max Users'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['max_users']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Archive'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['archive']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Instance Source'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['instance_source']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Originating Course'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['originating_course']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr>-->
+<tr>		<td><?php echo __('Description'); ?></td>
+		<td>
+			<?php echo h($lesson['Lesson']['description']); ?>
+			&nbsp;
+		</td>
+</tr>
+<tr>		<td><?php echo __('Objectives'); ?></td>
+		<td>
+			<?php echo h($lesson['Lesson']['objectives']); ?>
+			&nbsp;
+		</td>
+</tr>
+<!--<tr>		<td>--><?php //echo __('Assessment'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['assessment']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr>-->
+<tr>		<td><?php echo __('Topics'); ?></td>
+		<td>
+			<?php echo h($lesson['Lesson']['topics']); ?>
+			&nbsp;
+		</td>
+</tr>
+<!--<tr>		<td>--><?php //echo __('Resources'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['resources']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Info'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['info']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Learning Method'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['learning_method']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr>-->
+<tr>		<td><?php echo __('Subject'); ?></td>
+		<td>
+			<?php echo h($lesson['Lesson']['subject']); ?>
+			&nbsp;
+		</td>
+</tr>
+<tr>		<td><?php echo __('Publisher'); ?></td>
+		<td>
+			<?php echo h($lesson['Lesson']['publisher']); ?>
+			&nbsp;
+		</td>
+</tr>
+<!--<tr>		<td>--><?php //echo __('Contributor'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['contributor']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr>-->
+<!--<tr>		<td>--><?php //echo __('Type'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['type']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr>-->
+<!--<tr>		<td>--><?php //echo __('Format'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['format']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr>-->
+<!--<tr>		<td>--><?php //echo __('Identifier'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['identifier']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Source'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['source']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Relation'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['relation']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Coverage'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['coverage']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr><tr>		<td>--><?php //echo __('Rights'); ?><!--</td>-->
+<!--		<td>-->
+<!--			--><?php //echo h($lesson['Lesson']['rights']); ?>
+<!--			&nbsp;-->
+<!--		</td>-->
+<!--</tr>-->
+<tr>		<td><?php echo __('Created By'); ?></td>
+		<td>
+			<?php echo h($lesson['Lesson']['created_by']); ?>
+			&nbsp;
+		</td>
+</tr>
+
+<tr>		<td><?php echo __('Created'); ?></td>
+		<td>
+			<?php echo $this->Time->niceShort($lesson['Lesson']['created']); ?>
+			&nbsp;
+		</td>
+</tr>
+    </table>
+</div>
+
+
+<!-- Tree Viwe Contents [START] -->
+<br/>
+<div class="panel panel-default">
+    <div class="panel-heading"><h6 class="panel-title"><i class="icon-table"></i><?php echo __('Lesson Contents'); ?></h6></div>
+		<?php
+		    function treeForm(array &$elements, $parentId = 0, $elkey = null) {
+		        $branch = array();
+
+		        foreach ($elements as $key=>$element) {
+					#var_dump($element); die();
+		            if ($element[$elkey]['parent_id'] == $parentId) {
+		                $children = treeForm($elements, $element[$elkey]['id'], $elkey);
+		                if ($children) {
+		                    $element['children'] = $children;
+		                }
+		                $branch[$element[$elkey]['id']] = $element;
+		                unset($elements[$key]);
+		            }
+		        }
+		        return $branch;
+		    }
+
+			//Build Menu
+		    function convertToMenu($arr, $elmkey) {
+		        echo "<ul class='open'>";
+		        foreach ($arr as $val) {
+		                if (!empty($val['children'])) {
+		                        echo "<li><strong>" . $val[$elmkey]['name'] . "</strong>";
+		                        convertToMenu($val['children'], $elmkey);
+		                        echo "</li>";
+		                } else {
+		                        echo "<li><strong>" . $val[$elmkey]['name'] . "</strong></li>";
+		                }
+		        }
+		        echo "</ul>";
+		    }
+
+			foreach ($categories as $key => $content) {
+				if ($key==0) {
+					echo "<ul id='treeView' class='treeview-red' style=''><li class='open'><strong>Content index</strong>";
+				}
+				$menuTree = treeForm($categories, $content['Content'], 'Content'); // Preparing $categories.
+			}
+			convertToMenu($categories, 'Content');// changing to list, you can add <a> inside it.
+		echo "</li></ul>";
+
+		?>
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#treeView").treeview({
+			animated: "fast",
+			/*collapsed: true,
+			unique: true,
+			persist: "cookie",*/
+			toggle: function() {
+				window.console && console.log("%o was toggled", this);
+			}
+		});
+	})
+</script>
+<!-- Tree Viwe Contents [END] -->
+
+
+
+
+
+
+
+<div class="panel panel-default">
+    <div class="panel-heading"><h6 class="panel-title"><i class="icon-table"></i><?php echo __('Related Conditions'); ?></h6></div>
+		<?php if (!empty($lesson['Condition'])): ?>
+			<table class="table table-bordered table-hover">
+				<thead>
+					<tr>
+						<th class="actions"><?php echo __('Actions'); ?></th>
+					</tr>
+				</thead>
+				 <tbody>
+					<?php foreach ($lesson['Condition'] as $condition): ?>
+						<tr>
+							<td class="actions">
+								<?php echo $this->Html->link('<i class="icon-eye3"></i>', array('controller' => 'conditions', 'action' => 'view', $condition['id']), array('escape'=>false)); ?>
+								<?php echo $this->Html->link('<i class="icon-pencil"></i>', array('controller' => 'conditions', 'action' => 'edit', $condition['id']),array('escape'=>false)); ?>
+								<?php echo $this->Form->postLink('<i class="icon-cancel"></i>', array('controller' => 'conditions', 'action' => 'delete', $condition['id']), array('escape'=>false), __('Are you sure you want to delete # %s?', $condition['id'])); ?>
+							</td>
+						</tr>
+					<?php endforeach; ?>
+				 </tbody>
+			</table>
+		<?php endif; ?>
+</div>
+
+
+<div class="panel panel-default">
+    <div class="panel-heading"><h6 class="panel-title"><i class="icon-table"></i><?php echo __('Related Contents'); ?></h6></div>
+		<?php if (!empty($lesson['Content'])): ?>
+			<table class="table table-bordered table-hover">
+				<thead>
+					<tr>
+						<th><?php echo __('Name'); ?></th>
+						<th class="actions"><?php echo __('Actions'); ?></th>
+					</tr>
+				</thead>
+				 <tbody>
+					<?php foreach ($lesson['Content'] as $content): ?>
+						<tr>
+							<td><?php echo $content['name']; ?></td>
+							<td class="actions">
+								<?php echo $this->Html->link('<i class="icon-eye3"></i>', array('controller' => 'contents', 'action' => 'view', $content['id']), array('escape'=>false)); ?>
+								<?php echo $this->Html->link('<i class="icon-pencil"></i>', array('controller' => 'contents', 'action' => 'edit', $content['id']),array('escape'=>false)); ?>
+								<?php echo $this->Form->postLink('<i class="icon-cancel"></i>', array('controller' => 'contents', 'action' => 'delete', $content['id']), array('escape'=>false), __('Are you sure you want to delete # %s?', $content['id'])); ?>
+							</td>
+						</tr>
+					<?php endforeach; ?>
+				 </tbody>
+			</table>
+		<?php endif; ?>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading"><h6 class="panel-title"><i class="icon-table"></i><?php echo __('Related Periods'); ?></h6></div>
+		<?php if (!empty($lesson['Period'])): ?>
+			<table class="table table-bordered table-hover">
+				<thead>
+					<tr>
+						<th><?php echo __('Name'); ?></th>
+						<th class="actions"><?php echo __('Actions'); ?></th>
+					</tr>
+				</thead>
+				 <tbody>
+					<?php foreach ($lesson['Period'] as $period): ?>
+						<tr>
+							<td><?php echo $period['name']; ?></td>
+							<td class="actions">
+								<?php echo $this->Html->link('<i class="icon-eye3"></i>', array('controller' => 'periods', 'action' => 'view', $period['id']), array('escape'=>false)); ?>
+								<?php echo $this->Html->link('<i class="icon-pencil"></i>', array('controller' => 'periods', 'action' => 'edit', $period['id']),array('escape'=>false)); ?>
+								<?php echo $this->Form->postLink('<i class="icon-cancel"></i>', array('controller' => 'periods', 'action' => 'delete', $period['id']), array('escape'=>false), __('Are you sure you want to delete # %s?', $period['id'])); ?>
+							</td>
+						</tr>
+					<?php endforeach; ?>
+				 </tbody>
+			</table>
+		<?php endif; ?>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading"><h6 class="panel-title"><i class="icon-table"></i><?php echo __('Related Courses'); ?></h6></div>
+		<?php if (!empty($lesson['Course'])): ?>
+			<table class="table table-bordered table-hover">
+				<thead>
+					<tr>
+						<th><?php echo __('Name'); ?></th>
+						<th class="actions"><?php echo __('Actions'); ?></th>
+					</tr>
+				</thead>
+				 <tbody>
+					<?php foreach ($lesson['Course'] as $course): ?>
+						<tr>
+							<td><?php echo $course['name']; ?></td>
+							<td class="actions">
+								<?php echo $this->Html->link('<i class="icon-eye3"></i>', array('controller' => 'courses', 'action' => 'view', $course['id']), array('escape'=>false)); ?>
+								<?php echo $this->Html->link('<i class="icon-pencil"></i>', array('controller' => 'courses', 'action' => 'edit', $course['id']),array('escape'=>false)); ?>
+								<?php echo $this->Form->postLink('<i class="icon-cancel"></i>', array('controller' => 'courses', 'action' => 'delete', $course['id']), array('escape'=>false), __('Are you sure you want to delete # %s?', $course['id'])); ?>
+							</td>
+						</tr>
+					<?php endforeach; ?>
+				 </tbody>
+			</table>
+		<?php endif; ?>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading"><h6 class="panel-title"><i class="icon-table"></i><?php echo __('Related Users'); ?></h6></div>
+		<?php if (!empty($lesson['User'])): ?>
+			<table class="table table-bordered table-hover">
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th class="actions"><?php echo __('Actions'); ?></th>
+					</tr>
+				</thead>
+				 <tbody>
+					<?php foreach ($lesson['User'] as $user): ?>
+						<tr>
+							<td><?php echo $user['first_name'] .' '. $user['last_name'] ?></td>
+							<td class="actions">
+								<?php echo $this->Html->link('<i class="icon-eye3"></i>', array('controller' => 'users', 'action' => 'view', $user['id']), array('escape'=>false)); ?>
+								<?php echo $this->Html->link('<i class="icon-pencil"></i>', array('controller' => 'users', 'action' => 'edit', $user['id']),array('escape'=>false)); ?>
+								<?php echo $this->Form->postLink('<i class="icon-cancel"></i>', array('controller' => 'users', 'action' => 'delete', $user['id']), array('escape'=>false), __('Are you sure you want to delete # %s?', $user['id'])); ?>
+							</td>
+						</tr>
+					<?php endforeach; ?>
+				 </tbody>
+			</table>
+		<?php endif; ?>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading"><h6 class="panel-title"><i class="icon-table"></i><?php echo __('Related Usrgroups'); ?></h6></div>
+		<?php if (!empty($lesson['Usrgroup'])): ?>
+			<table class="table table-bordered table-hover">
+				<thead>
+					<tr>
+						<th><?php echo __('Name'); ?></th>
+						<th class="actions"><?php echo __('Actions'); ?></th>
+					</tr>
+				</thead>
+				 <tbody>
+					<?php foreach ($lesson['Usrgroup'] as $usrgroup): ?>
+						<tr>
+							<td><?php echo $usrgroup['name']; ?></td>
+							<td class="actions">
+								<?php echo $this->Html->link('<i class="icon-eye3"></i>', array('controller' => 'usrgroups', 'action' => 'view', $usrgroup['id']), array('escape'=>false)); ?>
+								<?php echo $this->Html->link('<i class="icon-pencil"></i>', array('controller' => 'usrgroups', 'action' => 'edit', $usrgroup['id']),array('escape'=>false)); ?>
+								<?php echo $this->Form->postLink('<i class="icon-cancel"></i>', array('controller' => 'usrgroups', 'action' => 'delete', $usrgroup['id']), array('escape'=>false), __('Are you sure you want to delete # %s?', $usrgroup['id'])); ?>
+							</td>
+						</tr>
+					<?php endforeach; ?>
+				 </tbody>
+			</table>
+		<?php endif; ?>
+</div>

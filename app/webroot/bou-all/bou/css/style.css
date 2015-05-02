@@ -1,0 +1,524 @@
+/*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
+
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+body{color:#595959;}
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+html {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection rule sets have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between images, videos, audio and canvas and the bottom of
+ * their containers: h5bp.com/i/440
+ */
+
+audio,
+canvas,
+img,
+video {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+ul,ol{margin:0;}
+
+/* ==========================================================================
+   Browse Happy prompt
+   ========================================================================== */
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+#header {
+	padding-top: 20px;
+	border-top:10px solid #409744;
+	border-bottom:1px solid #eee;
+	}
+.logo {}
+.login{padding-top:10px;}
+.login .dropdown-toggle{min-width:160px; text-align:left;}
+.login .dropdown-toggle .caret{position: absolute; right: 5px; top: 48%;}
+/* =====================
+  Footer
+   ================ */
+footer{background:#4c4c4c; padding: 20px 0; }
+footer a, footer a:hover{color:#fff; text-decoration:none;}
+footer .links{padding:18px 0;}
+footer .links li{padding: 0 20px; background:url(../img/border.jpg) no-repeat right center; margin: 0;}
+footer .links li.first{padding: 0 20px 0 0;}
+footer .links li.last{background:none;}
+#social li a{color:#fff;}
+/* =====================
+  Content
+   ================ */
+.breadcrumb{background-color:#fff;}
+.breadcrumb > li + li:before{content:"\f054"; font-family:FontAwesome; color:#38404b; font-size: 11px;}
+.divider{height:1px;margin:9px 0;overflow:hidden;background-color:#e5e5e5;}
+.page-title{color:#0e6bac; margin:0; font-size:30px;}
+.blog-title a, .subtitle{color:#595959; text-decoration:none;}
+.blog-list{border-bottom: 1px solid #e5e5e5; padding: 15px 0;}
+.blog-list.last{border-bottom:none;}
+.comment{color:#747474;}
+.blog-view .comment{color:#333333;}
+.blog-view .total-comments{padding:15px 0; font-size:18px; }
+.forum .table .desc{max-width: 350px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size:13px;}
+.syllabus{padding-left:21px;}
+.heading{color:#0668ae;}
+.course-info-list{padding:10px 0; }
+.subject a, .vote a{background: url("../img/add_new.jpg") no-repeat scroll 0 -3px rgba(0, 0, 0, 0); color: #595959; display: inline-block; padding-left: 24px;}
+.forum table, .forum .well{margin:20px 0;}
+.forum .blog-list{padding:0;}
+.forum .well{position:relative;}
+.forum .forum-comment{position:absolute; width:100%; padding:5px 17px; bottom:0; background:#dddddd; left:0; }
+.avatar img{border:1px solid #cccccc; border-radius:3px;}
+.forum table th{background:#0e6bac; color:#fff;}
+.forum .topic{margin-bottom:15px;}
+.forum .blog-list{border:none !important;}
+.forum table .sub-title{background: url("../img/forum-topic.jpg") no-repeat scroll 0 2px rgba(0, 0, 0, 0); padding-left: 47px;}
+.login-box{ border:10px solid #ebebeb; border-radius:8px; margin-bottom: 40px;}
+.login-box .input-group-addon{background:none !important; }
+.login-box .form-control{border-right:none;  box-shadow:none;}
+.login-box h3{margin:0; padding:15px 10px; background:#0e6bac; color:#fff; border-radius: 2px 2px 0 0;}
+.login-box form{display:block; overflow:hidden; padding:10px;}
+.help{display:block; overflow:hidden; padding:15px 10px; margin:10px -10px -10px; background:#f3f8f9;}
+.registration form{margin:20px 0;}
+.registration .form-inline{margin:10px 0;}
+.registration .form-inline input[type="text"]{width:324px;}
+#topemail, #topnumber{width:297px;}
+.note{background:#f6f6f6; padding:8px; border-radius:4px; border:1px solid #ccc;}
+#uploadPreview1{width:156px;}
+.profile .thumbnail{padding:0; border:none;}
+.profile .thumbnail img{ border: 1px solid #ccc;}
+.profile form{margin:20px 0;}
+.profile .input-group-addon{background:none !important; }
+.profile .input-group .form-control{border-left:none; box-shadow:none;}
+.course-list li .details img{float:left; padding-right: 5px;}
+.course-list li .details{background:#f5f5f5; overflow: hidden; border:1px solid #f5f5f5; margin:15px 0;}
+.viewprofile .panel-default{padding:15px; margin:15px 0;}
+.viewprofile .panel-default .thumbnail{margin:0;}
+
+
+/* =====================
+  Lesson-content Page
+   ================ */
+.lesson-title {}
+.progress-title {
+	padding-left:15px;
+	color:#F00;
+	}
+.list-group .nav{padding:10px;}
+.list-group .nav li{background:#f5f5f5;}
+.list-group .nav li label{border-bottom:1px solid #ccc; display:block; width:100%; margin:0; padding:7px;}
+.list-group .nav.tree{padding:0;}
+.list-group .nav.tree li{background:#fff;}
+.list-group .nav.tree li a{padding: 10px 22px;}
+.list-icon{ padding-right: 5px;}
+.setting-icon img {padding-right: 4px;}
+.unit-end a {border:0 none !important;}
+.unit-end a:hover {background-color:transparent !important;}
+.unit-end p{ margin: 0;}
+.pre-icon { font-size:40px; vertical-align: middle; color: #00CC00;}
+.pager li > a, .pager li > span {
+    background-color:transparent !important;
+    border: 0px;
+}
+
+/* =====================
+  sidebar
+   ================ */
+.side-title{background: none repeat scroll 0 0 #0e6bac; border-radius: 7px 7px 0 0; color: #fff; font-size: 16px; padding: 10px;}
+.side-content{padding:10px; color:#595959;}
+.side-content small{color:#bdbdbd; font-size: 100%;}
+.side-content a{text-decoration:none; color:#595959;}
+.side-content ul li a{ padding: 5px 0; display: inline-block;}
+.side-content select{margin-bottom:10px;}
+.side-content .full{width:100%;}
+.teacher-pic{padding-right:5px;}
+.teacher-pic, .teacher-desc{display:table-cell; vertical-align:middle;}
+.teacher-desc p{ margin:0;}
+.teacher-desc .name{color:#0668ae;}
+.inline{display:inline-block;}
+/* =====================
+  #course-content
+   ================ */
+   
+   
+/*arrow-box-bottom*/
+.arrow-box-bottom { 
+	background: #0e6bac; 
+	padding:10px;
+	position: relative;
+	border-radius: 4px 4px 0px 0px;
+    -moz-border-radius: 4px 4px 0px 0px;
+    -webkit-border-radius: 4px 4px 0px 0px;
+	}
+.arrow-box-bottom:after,
+.arrow-box-bottom:before{
+	top: 100%; 
+	left: 48px;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	}
+.arrow-box-bottom:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-top-color: #0e6bac;
+	border-width: 10px;
+	margin-left: -30px;
+	}
+.arrow-box-bottom a {
+	color:#FFF;
+	}
+		
+/*arrow-box-bottom-two*/
+	 
+.arrow-box-bottom-two { 
+	background: #0e6bac; 
+	padding:10px;
+	position: relative;
+	border-radius: 4px 4px 0px 0px;
+    -moz-border-radius: 4px 4px 0px 0px;
+    -webkit-border-radius: 4px 4px 0px 0px;
+	}
+.arrow-box-bottom-two:after,
+.arrow-box-bottom-two:before{
+	top: 100%; 
+	left: 48px;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	}
+.arrow-box-bottom-two:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-top-color: #0e6bac;
+	border-width: 10px;
+	margin-left: -30px;
+	}	
+.arrow-box-bottom-two a {
+	color:#FFF;
+	}
+.content-box {
+	border: 1px solid #ddd;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	-webkit-box-shadow: 2px 4px 5px 0px rgba(194, 194, 194, 0.39);
+	   -moz-box-shadow: 2px 4px 5px 0px rgba(194, 194, 194, 0.39);
+	        box-shadow: 2px 4px 5px 0px rgba(194, 194, 194, 0.39);
+	}
+.img-thumbnail {
+	border:0px;}
+.course-info {
+	background:#e2dcdc;
+	border-bottom:5px solid #0e6bac;
+	padding: 5px;
+	position:relative;
+	}
+.course-info a {
+	display:block;
+	}	
+.course-info:hover .course-deatils {
+	 background: none repeat scroll 0 0 #409744;
+    display: block;
+	color:#FFF;
+    height: 92px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transition: all 0.4s ease-in-out 0s;
+    width: 100%;
+	cursor:pointer;
+	}	
+.course-title {
+	color:#0e6bac;
+	 margin: 50px 0px;
+	}	
+.course-sedule {
+	padding: 4px 10px;
+	color:#0e6bac;
+	}
+.course-time {
+	padding-left: 32px;
+	color:#000;
+	}
+.course-deatils {
+	display:none;
+	}
+.course-deatils p {
+	 font-size: 20px;
+    padding: 35px;
+    text-align: center;
+	}
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Image replacement
+ */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    /* IE 6/7 fallback */
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+@media only screen and (min-width: 970px) {
+	#contain{min-height:417px;}
+}
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

@@ -1,0 +1,47 @@
+#min
+{
+    /*min-height: 451px;*/
+}
+.course-block
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-right: 5px solid white;
+}
+.flat
+{
+	margin: 0px;
+	border-radius: 0px;
+}
+.box-margin
+{
+	margin-bottom:15px;
+}
+span hr.hr-style
+{
+	border: 0;
+    height: 2px;
+    background: #e1e1e1;
+}
+#activation
+{
+	padding-bottom: 20px;
+    min-height: 100%;
+    margin-top: 20px;
+}
+.login
+{
+    margin-top: 20px;
+}
+.list-group-item:first-child {
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.list-group-item:last-child {
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}

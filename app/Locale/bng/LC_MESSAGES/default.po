@@ -1,0 +1,1824 @@
+msgid "bou-logo"
+msgstr "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয় লোগো"
+
+msgid "Account Settings"
+msgstr "অ্যাকাউন্ট সেটিংস"
+
+msgid "Add Blog"
+msgstr "ব্লগ যোগ করুন"
+
+msgid "Edit Blog"
+msgstr "ব্লগ সম্পাদনা করুন"
+
+msgid "Related Articles"
+msgstr "এ সংক্রান্ত বিভিন্ন প্রবন্ধ"
+
+msgid "Edit Article"
+msgstr "প্রবন্ধ সম্পাদনা করুন"
+
+msgid "Actions"
+msgstr "পদক্ষেপ"
+
+msgid "Action"
+msgstr "পদক্ষেপ"
+
+msgid "Add Article"
+msgstr "প্রবন্ধ যোগ করুন"
+
+msgid "Blog"
+msgstr "ব্লগ"
+
+msgid "Title"
+msgstr "শিরোনাম"
+
+msgid "Data"
+msgstr "তথ্য"
+
+msgid "Articles"
+msgstr "প্রবন্ধ"
+
+msgid "Article"
+msgstr "প্রবন্ধ"
+
+msgid "Name"
+msgstr "নাম"
+
+msgid "Description"
+msgstr "বিবরণ"
+
+msgid "Comment"
+msgstr "মন্তব্য"
+
+msgid "Comments"
+msgstr "মন্তব্য"
+
+msgid "Edit Comment"
+msgstr "মন্তব্য সম্পাদনা করুন"
+
+msgid "Question"
+msgstr "প্রশ্ন"
+
+msgid "Answer"
+msgstr "উত্তর"
+
+msgid "Faqs"
+msgstr "প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী"
+
+msgid "Add Faq"
+msgstr "প্রায়শই জিজ্ঞাসিত প্রশ্ন যোগ করুন"
+
+msgid "Faq"
+msgstr "প্রায়শই জিজ্ঞাসিত প্রশ্ন"
+
+msgid "Edit Faq"
+msgstr "প্রায়শই জিজ্ঞাসিত প্রশ্ন সম্পাদনা করুন"
+
+msgid "Add Glossary"
+msgstr "শব্দকোষ যুক্ত করুন"
+
+msgid "Info"
+msgstr "তথ্য"
+
+msgid "Glossary"
+msgstr "শব্দকোষ"
+
+msgid "Glossaries"
+msgstr "শব্দকোষ"
+
+msgid "Edit Glossary"
+msgstr "শব্দকোষ সম্পাদনা করুন"
+
+msgid "Blogs"
+msgstr "ব্লগ"
+
+msgid "Add Comment"
+msgstr "মন্তব্য যুক্ত করুন"
+
+msgid "Add Condition"
+msgstr "শর্ত যোগ করুন"
+
+msgid "Type"
+msgstr "প্রকার"
+
+msgid "Add Configuration"
+msgstr "কনফিগারেশন যোগ করুন"
+
+msgid "Value"
+msgstr "মান"
+
+msgid "Edit Configuration"
+msgstr "কনফিগারেশন সম্পাদনা করুন"
+
+msgid "Configurations"
+msgstr "কনফিগারেশন"
+
+msgid "Contents"
+msgstr "বিষয়বস্তু"
+
+msgid "Previous Content"
+msgstr "পূর্ববর্তী বিষয়বস্তু"
+
+msgid "Add Content"
+msgstr "বিষয়বস্তু যোগ করুন"
+
+msgid "Rate"
+msgstr "রেটিং"
+
+msgid "Edit Forum"
+msgstr "ফোরাম সম্পাদনা করুন"
+
+msgid "Add Forum"
+msgstr "ফোরাম যোগ করুন"
+
+msgid "Add Lesson"
+msgstr "পাঠ যোগ করুন"
+
+msgid "Category"
+msgstr "ক্যাটাগরি"
+
+msgid "Price"
+msgstr "মূল্য"
+
+msgid "Show Catalog"
+msgstr "ক্যাটালগ প্রদর্শন করুন"
+
+msgid "Duration"
+msgstr "সময়কাল"
+
+msgid "Access Limit"
+msgstr "প্রবেশ সীমা"
+
+msgid "Course Only"
+msgstr "শুধু কোর্স"
+
+msgid "Certificate"
+msgstr "সার্টিফিকেট"
+
+msgid "From Timestamp"
+msgstr "আরম্ভের সময়"
+
+msgid "To Timestamp"
+msgstr "শেষের সময়"
+
+msgid "Shift"
+msgstr "শিফট"
+
+msgid "Publish"
+msgstr "প্রকাশ"
+
+msgid "Share Folder"
+msgstr "ফোল্ডার শেয়ার করুন"
+
+msgid "Max Users"
+msgstr "সর্বোচ্চ ব্যবহারকারী"
+
+msgid "Archive"
+msgstr "আর্কাইভ"
+
+msgid "Instance Source"
+msgstr "ইন্সটান্স সোর্স"
+
+msgid "Originating Course"
+msgstr "মূল কোর্স"
+
+msgid "Objectives"
+msgstr "উদ্দেশ্য"
+
+msgid "Assessment"
+msgstr "মূল্যায়ন"
+
+msgid "Topics"
+msgstr "প্রসঙ্গ"
+
+msgid "Resources"
+msgstr "রিসোর্স"
+
+msgid "Learning Method"
+msgstr "শেখার পদ্ধতি"
+
+msgid "Publisher"
+msgstr "প্রকাশক"
+
+msgid "Contributor"
+msgstr "অবদানকারি"
+
+msgid "Format"
+msgstr "ফরমেট"
+
+msgid "Identifier"
+msgstr "চিহ্নিত করুন"
+
+msgid "Source"
+msgstr "উৎস"
+
+msgid "Relation"
+msgstr "সম্পর্ক"
+
+msgid "Coverage"
+msgstr "কভারেজ"
+
+msgid "Rights"
+msgstr "অধিকার"
+
+msgid "Course"
+msgstr "কোর্স"
+
+msgid "User"
+msgstr "ইউজার"
+
+msgid "Usrgroup"
+msgstr "ইউজার গ্রুপ"
+
+msgid "Add Login Token"
+msgstr "লগইন টোকেন যোগ করুন"
+
+msgid "Token"
+msgstr "টোকেন"
+
+msgid "Used"
+msgstr "ব্যবহৃত"
+
+msgid "Expires"
+msgstr "মেয়াদ শেষ"
+
+msgid "Edit Login Token"
+msgstr "লগইন টোকেন সম্পাদনা করুন"
+
+msgid "Attachments"
+msgstr "সংযুক্তি"
+
+msgid "Sender"
+msgstr "প্রেরক"
+
+msgid "Receiver"
+msgstr "প্রাপক"
+
+msgid "Bcc"
+msgstr "প্রতিলিপি"
+
+msgid "Is Read"
+msgstr "পঠিত"
+
+msgid "Is Important"
+msgstr "গুরুত্বপূর্ণ"
+
+msgid "Is Draft"
+msgstr "খসড়া"
+
+msgid "Is Trash"
+msgstr "অপ্রয়োজনীয়"
+
+msgid "Modified"
+msgstr "পরিমার্জিত"
+
+msgid "Add Message"
+msgstr "নতুন বার্তা"
+
+msgid "Model Name"
+msgstr "মডেল নাম"
+
+msgid "Author"
+msgstr "লেখক"
+
+msgid "Version"
+msgstr "সংস্করণ"
+
+msgid "Menu"
+msgstr "তালিকা"
+
+msgid "Mandatory"
+msgstr "বাধ্যতামূলক"
+
+msgid "Permissions"
+msgstr "অনুমতি"
+
+msgid "Add Module"
+msgstr "মডিউল যোগ করুন"
+
+msgid "Edit Module"
+msgstr "মডিউল সম্পাদনা করুন"
+
+msgid "Module"
+msgstr "মডিউল"
+
+msgid "Created By"
+msgstr "প্রস্তুতকারী"
+
+msgid "Modified By"
+msgstr "পরিমার্জনকারী"
+
+msgid "Is Seen"
+msgstr "দেখা হয়েছে"
+
+msgid "User Role"
+msgstr "ইউজারের ভূমিকা"
+
+msgid "Htmlized Description"
+msgstr "এইচটিএমএল বিবরণ"
+
+msgid "Add Notice"
+msgstr "নোটিশ যোগ করুন"
+
+msgid "Notices"
+msgstr "বিজ্ঞপ্তিসমূহ"
+
+msgid "Notice"
+msgstr "বিজ্ঞপ্তি"
+
+msgid "Edit Notice"
+msgstr "বিজ্ঞপ্তি সম্পাদনা করুন"
+
+msgid "Show entries:"
+msgstr "এন্ট্রি প্রদর্শনঃ"
+
+msgid "Filter:"
+msgstr "ফিল্টার:"
+
+msgid "Recipient"
+msgstr "প্রাপক"
+
+msgid "Message"
+msgstr "বার্তা"
+
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
+
+msgid "Welcome"
+msgstr "স্বাগতম"
+
+msgid "Add Category"
+msgstr "ক্যাটাগরি যোগ করুন"
+
+msgid "Edit Category"
+msgstr "ক্যাটাগরি সম্পাদনা করুন"
+
+msgid "Condition"
+msgstr "শর্ত"
+
+msgid "Conditions"
+msgstr "শর্তাবলী"
+
+msgid "Edit Condition"
+msgstr "শর্ত সম্পাদনা করুন"
+
+msgid "Configuration"
+msgstr "কনফিগারেশন"
+
+msgid "Ctg Type"
+msgstr "বিভিন্ন ক্যাটাগরি"
+
+msgid "Linked To"
+msgstr "লিঙ্ক টু"
+
+msgid "Edit Content"
+msgstr "বিষয়বস্তু সম্পাদনা করুন"
+
+msgid "Start Date"
+msgstr "তারিখ শুরু"
+
+msgid "Reset"
+msgstr "রিসেট করুন"
+
+msgid "Certificate Expiration"
+msgstr "সার্টিফিকেটর মেয়াদ"
+
+msgid "Reset Interval"
+msgstr "রিসেট ইন্টারভাল"
+
+msgid "Rules"
+msgstr "নিয়মাবলী"
+
+msgid "Depends On"
+msgstr "নির্ভরশীল"
+
+msgid "Ceu"
+msgstr "সিইউ"
+
+msgid "Add Course"
+msgstr "কোর্স যোগ করুন"
+
+msgid "Edit Course"
+msgstr "কোর্স সম্পাদনা করুন"
+
+msgid "Events"
+msgstr "ইভেন্টস"
+
+msgid "Place"
+msgstr "স্থান"
+
+msgid "Url"
+msgstr "ইউআরএল"
+
+msgid "Summary"
+msgstr "সারসংক্ষেপ"
+
+msgid "Invite"
+msgstr "আমন্ত্রণ"
+
+msgid "Add Event"
+msgstr "ইভেন্ট যোগ করুন"
+
+msgid "Event"
+msgstr "ইভেন্ট"
+
+msgid "Edit Event"
+msgstr "ইভেন্ট সম্পাদনা করুন"
+
+msgid "Forums"
+msgstr "ফোরাম"
+
+msgid "Edit Lesson"
+msgstr "পাঠ সম্পাদনা করুন"
+
+msgid "Login Token"
+msgstr "লগইন টোকেন"
+
+msgid "Login Tokens"
+msgstr "লগইন টোকেনস"
+
+msgid "Edit Message"
+msgstr "বার্তা সম্পাদনা করুন"
+
+msgid "Html Message"
+msgstr "এইচটিএমএল বার্তা"
+
+msgid "Send Interval"
+msgstr "সেন্ড ইন্টারভাল"
+
+msgid "Send Conditions"
+msgstr "পাঠানোর শর্তাবলী"
+
+msgid "Id Type Entity"
+msgstr "আইডি টাইপ "
+
+msgid "Dynamic"
+msgstr "পরিবর্তনশীল"
+
+msgid "User Type"
+msgstr "ইউজার টাইপ"
+
+msgid "Users Active"
+msgstr "সক্রিয় ইউজার"
+
+msgid "Assign Profile To New"
+msgstr "আস প্রোফাইল টু নিউ"
+
+msgid "The message has been deleted."
+msgstr "বার্তাটি মুছে ফেলা হয়েছে।"
+
+msgid "The message has been saved."
+msgstr "বার্তাটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The article has been saved."
+msgstr "প্রবন্ধটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The article has been deleted."
+msgstr "প্রবন্ধটি মুছে ফেলা হয়েছে।"
+
+msgid "Deadline"
+msgstr "সর্বশেষ সময়সীমা"
+
+msgid "Add Project"
+msgstr "প্রকল্প যোগ করুন"
+
+msgid "Ratings"
+msgstr "রেটিংস"
+
+msgid "Add Rating"
+msgstr "রেটিং যোগ করুন"
+
+msgid "Sent Notifications"
+msgstr "প্রেরিত নোটিফিকেশন"
+
+msgid "Body"
+msgstr "বডি"
+
+msgid "User list"
+msgstr "ইউজার তালিকা"
+
+msgid "Layout setting"
+msgstr "লেআউট সেটিং"
+
+msgid "Admin tools"
+msgstr "অ্যাডমিন টুলস"
+
+msgid "Admin"
+msgstr "অ্যাডমিন"
+
+msgid "Upload files"
+msgstr "ফাইল আপলোড"
+
+msgid "Shipped items"
+msgstr "শিফড আইটেম"
+
+msgid "View rating"
+msgstr "রেটিং দেখুন"
+
+msgid "Support desk"
+msgstr "সাপোর্ট ডেস্ক"
+
+msgid "Website statistics"
+msgstr "ওয়েবসাইট পরিসংখ্যান"
+
+msgid "Invoice history"
+msgstr "চালান ইতিহাস"
+
+msgid "Visitor statistics"
+msgstr "পরিদর্শক পরিসংখ্যান"
+
+msgid "Developer version"
+msgstr "ডেভেলপার সংস্করণ"
+
+msgid "Usrgroups"
+msgstr "ইউজারগ্রুপ"
+
+msgid "Unique Key"
+msgstr "স্বতন্ত্র কী"
+
+msgid "Is Default"
+msgstr "ডিফল্ট"
+
+msgid "Key Max Usage"
+msgstr "সর্বাধিক কী ব্যবহার"
+
+msgid "Key Current Usage"
+msgstr "বর্তমান কী  ব্যবহার"
+
+msgid "Add Usrgroup"
+msgstr "ইউজারগ্রুপ যোগ করুন"
+
+msgid "Edit Usrgroup"
+msgstr "ইউজারগ্রুপ সম্পাদনা করুন "
+
+msgid "The usrgroup has been saved."
+msgstr "ইউজারগ্রুপ সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The article has been saved."
+msgstr "প্রবন্ধটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The blog has been saved."
+msgstr "ব্লগ সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The calender has been saved."
+msgstr "ক্যালেন্ডার সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The category has been saved."
+msgstr "ক্যাটাগরি  সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The comment has been saved."
+msgstr "মন্তব্যটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The condition has been saved."
+msgstr "শর্তটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The configuration has been saved."
+msgstr "কনফিগারেশন সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The content has been saved."
+msgstr "বিষয়বস্তু সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The course has been saved."
+msgstr "কোর্সটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The event has been saved."
+msgstr "ইভেন্ট সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The faq has been saved."
+msgstr "প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The forum has been saved."
+msgstr "ফোরাম সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The glossary has been saved."
+msgstr "শব্দকোষ সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The layout has been saved."
+msgstr "লেআউটটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The lesson has been saved."
+msgstr "পাঠটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The message has been saved."
+msgstr "বার্তাটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The module has been saved."
+msgstr "মডিউলটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The news has been saved."
+msgstr "সংবাদটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The notice has been saved."
+msgstr "বিজ্ঞপ্তি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The notification has been saved."
+msgstr "নোটিফিকেশনটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The period has been saved."
+msgstr "মেয়াদ সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The poll has been saved."
+msgstr "ভোটটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The post has been saved."
+msgstr "পোস্টটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The project has been saved."
+msgstr "প্রকল্পটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The rating has been saved."
+msgstr "রেটিং সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The sent notification has been saved."
+msgstr "প্রেরিত নোটিফিকেশনটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The topic has been saved."
+msgstr "প্রসঙ্গটি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The user type has been saved."
+msgstr "ইউজার টাইপ সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "The news has been deleted."
+msgstr "খবর মুছে ফেলা হয়েছে।"
+
+msgid "The usrgroup has been deleted."
+msgstr "ইউজারগ্রুপ মুছে ফেলা হয়েছে।"
+
+msgid "The user type has been deleted."
+msgstr "ইউজার টাইপ মুছে ফেলা হয়েছে।"
+
+msgid "The topic has been deleted."
+msgstr "প্রসঙ্গটি মুছে ফেলা হয়েছে।"
+
+msgid "The sent notification has been deleted."
+msgstr "প্রেরিত নোটিফিকেশনটি  মুছে ফেলা হয়েছে।"
+
+msgid "The rating has been deleted."
+msgstr "রেটিং মুছে ফেলা হয়েছে।"
+
+msgid "The project has been deleted."
+msgstr "প্রকল্প মুছে ফেলা হয়েছে।"
+
+msgid "The post has been deleted."
+msgstr "পোস্টটি মুছে ফেলা হয়েছে।"
+
+msgid "The poll has been deleted."
+msgstr "ভোট মুছে ফেলা হয়েছে।"
+
+msgid "The period has been deleted."
+msgstr "মেয়াদ মুছে ফেলা হয়েছে।"
+
+msgid "The notification has been deleted."
+msgstr "নোটিফিকেশনটি মুছে ফেলা হয়েছে।"
+
+msgid "The notice has been deleted."
+msgstr "বিজ্ঞপ্তি মুছে ফেলা হয়েছে।"
+
+msgid "The module has been deleted."
+msgstr "মডিউল মুছে ফেলা হয়েছে।"
+
+msgid "The message has been deleted."
+msgstr "বার্তাটি মুছে ফেলা হয়েছে।"
+
+msgid "The lesson has been deleted."
+msgstr "পাঠ মুছে ফেলা হয়েছে।"
+
+msgid "The layout has been deleted."
+msgstr "লেআউট মুছে ফেলা হয়েছে।"
+
+msgid "The glossary has been deleted."
+msgstr "শব্দকোষ মুছে ফেলা হয়েছে।"
+
+msgid "The forum has been deleted."
+msgstr "ফোরাম মুছে ফেলা হয়েছে।"
+
+msgid "The faq has been deleted."
+msgstr "প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী মুছে ফেলা হয়েছে।"
+
+msgid "The event has been deleted."
+msgstr "ইভেন্ট মুছে ফেলা হয়েছে।"
+
+msgid "The course has been deleted."
+msgstr "কোর্সটি মুছে ফেলা হয়েছে।"
+
+msgid "The content has been deleted."
+msgstr "বিষয়বস্তু মুছে ফেলা হয়েছে।"
+
+msgid "The configuration has been deleted."
+msgstr "কনফিগারেশন মুছে ফেলা হয়েছে।"
+
+msgid "The condition has been deleted."
+msgstr "শর্তটি মুছে ফেলা হয়েছে।"
+
+msgid "The comment has been deleted."
+msgstr "মন্তব্যটি মুছে ফেলা হয়েছে।"
+
+msgid "The category has been deleted."
+msgstr "ক্যাটাগরি মুছে ফেলা হয়েছে।"
+
+msgid "The calendar has been deleted."
+msgstr "ক্যালেন্ডার মুছে ফেলা হয়েছে।"
+
+msgid "The blog has been deleted."
+msgstr "ব্লগ মুছে ফেলা হয়েছে।"
+
+msgid "The article has been deleted."
+msgstr "প্রবন্ধটি মুছে ফেলা হয়েছে।"
+
+msgid "User Types"
+msgstr "ইউজার টাইপ"
+
+msgid "Basic User Type"
+msgstr "বেসিক ইউজার টাইপ"
+
+msgid "Core Access"
+msgstr "মূল অ্যাকসেস"
+
+msgid "Modules Access"
+msgstr "মডিউল অ্যাকসেস"
+
+msgid "Add User Type"
+msgstr "ইউজার টাইপ যোগ করুন"
+
+msgid "Edit User Type"
+msgstr "ইউজার টাইপ সম্পাদনা করুন"
+
+msgid "Topic"
+msgstr "প্রসঙ্গ"
+
+msgid "Related Posts"
+msgstr "একই রকমের পোস্ট"
+
+msgid "Edit Post"
+msgstr "পোস্ট সম্পাদনা করুন"
+
+msgid "Posts"
+msgstr "পোস্ট"
+
+msgid "Replyto"
+msgstr "রিপ্লাই টু"
+
+msgid "Rank"
+msgstr "রেংক"
+
+msgid "Add Post"
+msgstr "পোস্ট যোগ করুন"
+
+msgid "Add Topic"
+msgstr "প্রসঙ্গ যোগ করুন"
+
+msgid "Sticky"
+msgstr "স্টিকি"
+
+msgid "Viewed By"
+msgstr "যারা দেখেছে"
+
+msgid "Edit Topic"
+msgstr "প্রসঙ্গ সম্পাদনা করুন"
+
+msgid "Sent Notification"
+msgstr "প্রেরিত নোটিফিকেশন"
+
+msgid "Add Sent Notification"
+msgstr "প্রেরিত নোটিফিকেশন যোগ করুন"
+
+msgid "Edit Sent Notification"
+msgstr "প্রেরিত নোটিফিকেশন সম্পাদনা করুন"
+
+msgid "Rating"
+msgstr "রেটিং"
+
+msgid "Edit Rating"
+msgstr "রেটিং সম্পাদনা করুন"
+
+msgid "Projects"
+msgstr "প্রকল্প"
+
+msgid "Edit Project"
+msgstr "প্রকল্প সম্পাদনা করুন"
+
+msgid "Project"
+msgstr "প্রকল্প"
+
+msgid "First"
+msgstr "প্রথম"
+
+msgid "Last"
+msgstr "শেষ"
+
+msgid "Ongoing Courses"
+msgstr "চলমান কোর্স"
+
+msgid "Polls"
+msgstr "ভোট"
+
+msgid "Option1"
+msgstr "অপশন১"
+
+msgid "Option2"
+msgstr "অপশন২"
+
+msgid "Option3"
+msgstr "অপশন৩"
+
+msgid "Option4"
+msgstr "অপশন৪"
+
+msgid "Option5"
+msgstr "অপশন৫"
+
+msgid "Timestamp Start"
+msgstr "টাইমস্ট্যাম্প শুরু"
+
+msgid "Timestamp End"
+msgstr "টাইমস্ট্যাম্প শেষ"
+
+msgid "Views"
+msgstr "দেখেছে"
+
+msgid "Add Poll"
+msgstr "ভোট যোগ করুন"
+
+msgid "Poll"
+msgstr "ভোট"
+
+msgid "Edit Poll"
+msgstr "ভোট সম্পাদনা করুন"
+
+msgid "Periods"
+msgstr "মেয়াদ"
+
+msgid "Period"
+msgstr "মেয়াদ"
+
+msgid "Edit Period"
+msgstr "মেয়াদ সম্পাদনা করুন"
+
+msgid "Username"
+msgstr "ইউজারনেম"
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "আপনি নিশ্চিত, আপনি মুছে ফেলতে চান?"
+
+
+
+
+msgid "bou-logo"
+msgstr "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয় লোগো"
+
+msgid "Account Settings"
+msgstr "অ্যাকাউন্ট সেটিংস"
+
+msgid "Login"
+msgstr "লগইন"
+
+msgid "Sign Up"
+msgstr "সাইন আপ"
+
+msgid "Contact Us"
+msgstr "যোগাযোগ করুন"
+
+msgid "About Us"
+msgstr "আমাদের সম্পর্কে"
+
+msgid "Email address"
+msgstr "ইমেইল"
+
+msgid "Email"
+msgstr "ইমেইল"
+
+msgid "Password"
+msgstr "পাসওয়ার্ড"
+
+msgid "Stay signed in"
+msgstr "সাইন ইন থাকুন"
+
+msgid "Need help?"
+msgstr "সাহায্য প্রয়োজন?"
+
+msgid "User Registration"
+msgstr "ইউজার রেজিস্ট্রেশন"
+
+msgid "Or"
+msgstr "অথবা"
+
+msgid "Number"
+msgstr "নম্বর"
+
+msgid "Login id your email or password."
+msgstr "লগইন আইডি, আপনার ইমেল বা পাসওয়ার্ড"
+
+msgid "Confirm Password"
+msgstr "পাসওয়ার্ড নিশ্চিত করুন"
+
+msgid "Full Name"
+msgstr "পুরো নাম"
+
+msgid "Gender:"
+msgstr "লিঙ্গ:"
+
+msgid "Male"
+msgstr "পুরুষ"
+
+msgid "Female"
+msgstr "মহিলা"
+
+msgid "Create Account"
+msgstr "অ্যাকাউন্ট তৈরি করুন"
+
+msgid "Open University"
+msgstr "উন্মুক্ত বিশ্ববিদ্যালয়"
+
+msgid "Course Dashboard"
+msgstr "কোর্স ড্যাশবোর্ড"
+
+msgid "Profile"
+msgstr "প্রোফাইল"
+
+msgid "All Records"
+msgstr "সকল রেকর্ডস"
+
+msgid "Settings"
+msgstr "সেটিংস"
+
+msgid "blog"
+msgstr "ব্লগ"
+
+msgid "Lesson"
+msgstr "পাঠ"
+
+msgid "Forum"
+msgstr "ফোরাম"
+
+msgid "Subject"
+msgstr "বিষয়"
+
+msgid "Add New Subject"
+msgstr "নতুন বিষয় যোগ করুন"
+
+msgid "Position"
+msgstr "পদ"
+
+msgid "Join"
+msgstr "যোগদান"
+
+msgid "Post"
+msgstr "পোস্ট"
+
+msgid "Courses"
+msgstr "কোর্স"
+
+msgid "Lessons"
+msgstr "পাঠ"
+
+msgid "Logout"
+msgstr "লগআউট"
+
+msgid "Course Session"
+msgstr "কোর্স সেশন"
+
+msgid "Join for free"
+msgstr "বিনামূল্যে যোগ দিন"
+
+msgid "Course Duration"
+msgstr "কোর্স সময়কাল"
+
+msgid "Course Teacher"
+msgstr "কোর্স শিক্ষক"
+
+msgid "Usually Asked Question:"
+msgstr "কিছু সাধারণ প্রশ্নঃ"
+
+msgid "Course Type:"
+msgstr "কোর্সের ধরনঃ"
+
+msgid "Who It Is For:"
+msgstr "যাদের জন্যঃ"
+
+msgid "Course Syllabus:"
+msgstr "কোর্সের সিলেবাসঃ"
+
+msgid "Course Dashboard"
+msgstr "কোর্স ড্যাশবোর্ড"
+
+msgid "contact us"
+msgstr "আমাদের সাথে যোগাযোগ করুন"
+
+msgid "Ongoing Courses"
+msgstr "চলমান কোর্স সমূহ"
+
+msgid "Upcoming Courses"
+msgstr "আসন্ন কোর্স সমূহ"
+
+msgid "Course Start"
+msgstr "কোর্সের শুরু"
+
+msgid "Course Fee"
+msgstr "কোর্স ফি"
+
+msgid "Day"
+msgstr "দিন"
+
+msgid "Taka"
+msgstr "টাকা"
+
+msgid "Last comments"
+msgstr "সর্বশেষ মন্তব্য"
+
+msgid "No comments"
+msgstr "কোন মন্তব্য নেই"
+
+msgid "No forum messages"
+msgstr "কোন ফোরাম বার্তা নেই"
+
+msgid "Last messages at forum"
+msgstr "ফোরাম এ সর্বশেষ বার্তা"
+
+msgid "Calender"
+msgstr "ক্যালেন্ডার"
+
+msgid "Tools"
+msgstr "টুলস"
+
+msgid "No messages in this folder"
+msgstr "এই ফোল্ডারে কোন বার্তা নেই"
+
+msgid "My Courses"
+msgstr "আমার কোর্স সমূহ"
+
+msgid "Group/Lesson key"
+msgstr "গ্রুপ / পাঠ কী"
+
+msgid "Course catalog"
+msgstr "কোর্স ক্যাটালগ"
+
+msgid "Messages"
+msgstr "বার্তা"
+
+msgid "Reports"
+msgstr "প্রতিবেদন"
+
+msgid "Forum"
+msgstr "ফোরাম"
+
+msgid "From"
+msgstr "প্রেরক"
+
+msgid "Date"
+msgstr "তারিখ"
+
+msgid "Mon"
+msgstr "সোম"
+
+msgid "Tue"
+msgstr "মঙ্গল"
+
+msgid "Wed"
+msgstr "বুধ"
+
+msgid "Thu"
+msgstr "বৃহস্পতি"
+
+msgid "Fri"
+msgstr "শুক্র"
+
+msgid "1"
+msgstr "১"
+
+msgid "2"
+msgstr "২"
+
+msgid "3"
+msgstr "৩"
+
+msgid "4"
+msgstr "৪"
+
+msgid "5"
+msgstr "৫"
+
+msgid "6"
+msgstr "৬"
+
+msgid "7"
+msgstr "৭"
+
+msgid "8"
+msgstr "৮"
+
+msgid "9"
+msgstr "৯"
+
+msgid "0"
+msgstr "০"
+
+msgid "Recent incoming messages"
+msgstr "সাম্প্রতিক ইনকামিং বার্তা"
+
+msgid "January"
+msgstr "জানুয়ারী"
+
+msgid "February"
+msgstr "ফেব্রুয়ারি"
+
+msgid "March"
+msgstr "মার্চ"
+
+msgid "April"
+msgstr "এপ্রিল"
+
+msgid "May"
+msgstr "মে"
+
+msgid "June"
+msgstr "জুন"
+
+msgid "July"
+msgstr "জুলাই"
+
+msgid "August"
+msgstr "অগাস্ট"
+
+msgid "September"
+msgstr "সেপ্টেম্বর"
+
+msgid "October"
+msgstr "অক্টোবর"
+
+msgid "November"
+msgstr "নভেম্বর"
+
+msgid "December"
+msgstr "ডিসেম্বর"
+
+msgid "Home"
+msgstr "হোম"
+
+msgid "You don't have any lessons or courses"
+msgstr "আপনার কোনো পাঠ বা কোর্স নেই"
+
+msgid "Type your code"
+msgstr "আপনার কোড টাইপ করুন"
+
+msgid "Activate"
+msgstr "অ্যাক্টিভেট"
+
+msgid "Activation Page"
+msgstr "অ্যাক্টিভেশন পেজ"
+
+msgid "Time Zone"
+msgstr "টাইম জোন"
+
+msgid "Time Change"
+msgstr "সময় পরিবর্তন"
+
+msgid "Email address Change"
+msgstr "ইমেইল পরিবর্তন"
+
+msgid "New Email address"
+msgstr "নতুন ইমেইল"
+
+msgid "Email Change"
+msgstr "ইমেইল পরিবর্তন"
+
+msgid "Password Change"
+msgstr "পাসওয়ার্ড পরিবর্তন"
+
+msgid "Old Password"
+msgstr "পুরাতন পাসওয়ার্ড"
+
+msgid "New Password"
+msgstr "নতুন পাসওয়ার্ড"
+
+msgid "confirm Password"
+msgstr "পাসওয়ার্ড নিশ্চিত করুন"
+
+msgid "Update Courses"
+msgstr "কোর্স আপডেট"
+
+msgid "New Course"
+msgstr "নতুন কোর্স"
+
+msgid "Import Course"
+msgstr "ইম্পোর্ট কোর্স"
+
+msgid "course name"
+msgstr "কোর্সের নাম"
+
+msgid "participation"
+msgstr "অংশগ্রহণ"
+
+msgid "price"
+msgstr "মূল্য"
+
+msgid "start date"
+msgstr "তারিখ শুরু"
+
+msgid "End Date"
+msgstr "শেষ তারিখ"
+
+msgid "Created"
+msgstr "ক্রিয়েটেড"
+
+msgid "Active"
+msgstr "সক্রিয়"
+
+msgid "operation"
+msgstr "অপারেশন"
+
+msgid "courses"
+msgstr "কোর্স"
+
+msgid "Options"
+msgstr "অপশন"
+
+msgid "Announcement"
+msgstr "বিজ্ঞপ্তি"
+
+msgid "Security Module"
+msgstr "সিকিউরিটি মডিউল"
+
+msgid "Users"
+msgstr "ব্যবহারকারী"
+
+msgid "Categories"
+msgstr "ক্যাটাগরি"
+
+msgid "User Types "
+msgstr "ব্যবহারকারীর ধরন"
+
+msgid "Groups"
+msgstr "গ্রুপ"
+
+msgid "Group"
+msgstr "গ্রুপ"
+
+msgid "System Settings"
+msgstr "সিস্টেম সেটিংস"
+
+msgid "Themes"
+msgstr "থিম"
+
+msgid "Notifications"
+msgstr "নোটিফিকেশন"
+
+msgid "Messages"
+msgstr "বার্তা"
+
+msgid "Connected Users"
+msgstr "সংযুক্ত ব্যবহারকারী"
+
+msgid "Export-Import"
+msgstr "আমদানি-রপ্তানি"
+
+msgid "Languages"
+msgstr "ভাষা"
+
+msgid "Reports"
+msgstr "রিপোর্ট"
+
+msgid "Back-up Restore"
+msgstr "ব্যাক আপ এবং পুনঃস্থাপন করুন"
+
+msgid "Maintainance"
+msgstr "রক্ষণা-বেক্ষণ"
+
+msgid "Modules"
+msgstr "মডিউল"
+
+msgid "Add New Vote"
+msgstr "নতুন ভোট যোগ করুন"
+
+msgid "Last Answer"
+msgstr "শেষ উত্তর"
+
+msgid "Status"
+msgstr "স্ট্যাটাস"
+
+msgid "Blog"
+msgstr "ব্লগ"
+
+msgid "Details"
+msgstr "বিস্তারিত"
+
+msgid "Last Registered"
+msgstr "শেষ নিবন্ধিত"
+
+msgid "Archives"
+msgstr "আর্কাইভ"
+
+msgid "Comments"
+msgstr "মন্তব্য"
+
+msgid "Dhaka"
+msgstr "ঢাকা"
+
+msgid "Khulna"
+msgstr "খুলনা"
+
+msgid "Comilla"
+msgstr "কুমিল্লা"
+
+msgid "Search"
+msgstr "অনুসন্ধান"
+
+msgid "Dashboard"
+msgstr "ড্যাশবোর্ড"
+
+msgid "Add News"
+msgstr "খবর যোগ করুন"
+
+msgid "Expire"
+msgstr "মেয়াদ শেষ"
+
+msgid "Edit News"
+msgstr "সংবাদ সম্পাদনা করুন"
+
+msgid "News"
+msgstr "সংবাদ"
+
+msgid "Users List"
+msgstr "ইউজারের তালিকা"
+
+msgid "SL"
+msgstr "ক্রমিক"
+
+msgid "User Detail"
+msgstr "ইউজারের বিস্তারিত"
+
+msgid "User Id"
+msgstr "ইউজার আইডি"
+
+msgid "User Group"
+msgstr "ইউজার গ্রুপ"
+
+msgid "First Name"
+msgstr "নামের প্রথমাংশ"
+
+msgid "Last Name"
+msgstr "নামের শেষাংশ"
+
+msgid "Choose Group"
+msgstr "গ্রুপ পছন্দ করুন"
+
+msgid "Gender"
+msgstr "লিঙ্গ"
+
+msgid "Cell Phone"
+msgstr "মোবাইল ফোন"
+
+msgid "Home Phone"
+msgstr "বাসার ফোন"
+
+msgid "National ID"
+msgstr "জাতীয় পরিচয়পত্র"
+
+msgid "Photo"
+msgstr "ছবি"
+
+msgid "Stay Signed In"
+msgstr "সাইন ইন থাকুন"
+
+msgid "Forgot Password"
+msgstr "পাসওয়ার্ড ভুলে গেছেন"
+
+msgid "Course & Lesson"
+msgstr "কোর্স ও পাঠ"
+
+msgid "Content"
+msgstr "বিষয়বস্তু"
+
+msgid "Task"
+msgstr "কার্য"
+
+msgid "FAQ"
+msgstr "প্রায়শই জিজ্ঞাসিত প্রশ্ন"
+
+msgid "Event Calendar"
+msgstr "ইভেন্ট ক্যালেন্ডার"
+
+msgid "Notification"
+msgstr "নোটিফিকেশন"
+
+msgid "Exam"
+msgstr "পরীক্ষা"
+
+msgid "Exams"
+msgstr "পরীক্ষা"
+
+msgid "Grade Book"
+msgstr "গ্রেড বুক"
+
+msgid "Questions"
+msgstr "প্রশ্নাবলী"
+
+msgid "Orders"
+msgstr "অর্ডার"
+
+msgid "Report"
+msgstr "রিপোর্ট"
+
+msgid "Administration"
+msgstr "অ্যাডমিনিস্ট্রেশন"
+
+msgid "My Orders"
+msgstr "আমার অর্ডারগুলো"
+
+msgid "Invoices"
+msgstr "চালানসমূহ"
+
+msgid "Course Reports"
+msgstr "কোর্স রিপোর্ট"
+
+msgid "Lesson Reports"
+msgstr "পাঠ রিপোর্ট"
+
+msgid "User Reports"
+msgstr "ইউজার রিপোর্ট"
+
+msgid "All Users"
+msgstr "সকল ইউজার"
+
+msgid "All Groups"
+msgstr "সকল গ্রুপ"
+
+msgid "Set Permission"
+msgstr "অনুমতি সেট করুন"
+
+msgid "General Settings"
+msgstr "সাধারণ সেটিংস"
+
+msgid "User Settings"
+msgstr "ইউজার সেটিংস"
+
+msgid "Appearance"
+msgstr "এপিয়ারেন্স"
+
+msgid "External Tools"
+msgstr "এক্সটারনাল টুলস"
+
+msgid "Customization"
+msgstr "কাস্টমাইজেশন"
+
+msgid "admin"
+msgstr "অ্যাডমিন"
+
+msgid "Change Password"
+msgstr "পাসওয়ার্ড পরিবর্তন"
+
+msgid "Search"
+msgstr "অনুসন্ধান"
+
+msgid "BLOG"
+msgstr "ব্লগ"
+
+msgid "Participation"
+msgstr "অংশগ্রহণ"
+
+msgid "Related Lessons"
+msgstr "এই সম্পর্কিত পাঠ"
+
+msgid "Related Users"
+msgstr "এই সম্পর্কিত ইউজার"
+
+msgid "Related UserGroups"
+msgstr "সম্পর্কিত ইউজারগ্রুপ"
+
+msgid "Image"
+msgstr "ছবি"
+
+msgid "Who It Is For"
+msgstr "যার জন্য"
+
+msgid "Usually Asked Question"
+msgstr "সাধারণত জিজ্ঞাসিত প্রশ্ন"
+
+msgid "Duration Per Week"
+msgstr "প্রতি সপ্তাহে সময়কাল"
+
+msgid "Duration Hour Per Week"
+msgstr "প্রতি সপ্তাহে প্রতিঘন্টা সময়কাল"
+
+msgid "Upcomming"
+msgstr "আসন্ন"
+
+msgid "Ongoing"
+msgstr "চলমান"
+
+msgid "Getting started html5 "
+msgstr "এইচটিএমএল ৫ শুরু"
+
+msgid "Related Contents"
+msgstr "এই সম্পর্কিত বিষয়বস্তু"
+
+msgid "Previous"
+msgstr "আগের পাতা"
+
+msgid "Next"
+msgstr "পরের পাতা"
+
+msgid "Course Report"
+msgstr "কোর্স রিপোর্ট"
+
+msgid "ADD NEW POST"
+msgstr "নতুন পোস্ট যোগ করুন"
+
+msgid "SITE PARAMETERS"
+msgstr "সাইট প্যারামিটার"
+
+msgid "SITE STATISTICS"
+msgstr "সাইট পরিসংখ্যান"
+
+msgid "My messages"
+msgstr "আমার বার্তাগুলি"
+
+msgid "ORDERS HISTORY"
+msgstr "অর্ডার ইতিহাস"
+
+msgid "Invoices stats"
+msgstr "ইনভয়েস পরিসংখ্যান"
+
+msgid "Lessons Report"
+msgstr "পাঠ রিপোর্ট"
+
+msgid "Users Report"
+msgstr "ইউজার রিপোর্ট"
+
+msgid "Group List"
+msgstr "গ্রুপ তালিকা"
+
+msgid "Alias Name"
+msgstr "উপনাম"
+
+msgid "Allow Registration"
+msgstr "নিবন্ধন অনুমতি দিন"
+
+msgid "Group Id"
+msgstr "গ্রুপ আইডি"
+
+msgid "User Group Permissions"
+msgstr "ইউজার গ্রুপের অনুমতি"
+
+msgid "Edit Profile"
+msgstr "প্রোফাইল সম্পাদনা করুন"
+
+msgid "My Profile"
+msgstr "আমার প্রোফাইল"
+
+msgid "Picture"
+msgstr "ছবি"
+
+msgid "Address"
+msgstr "ঠিকানা"
+
+msgid "Birth Date"
+msgstr "জন্ম তারিখ"
+
+msgid "About me"
+msgstr "আমার সম্পর্কে"
+
+msgid "Website"
+msgstr "ওয়েবসাইট"
+
+msgid "My Courses"
+msgstr "আমার কোর্সগুলো"
+
+msgid "Submit"
+msgstr "জমা দিন"
+
+msgid "You need to be signed in to view this page."
+msgstr "এই পৃষ্ঠাটি দেখতে সাইন ইন করুন।"
+
+msgid "Your registration has not been confirmed please verify your email or contact to Administrator"
+msgstr ""
+
+msgid "The subject has been saved."
+msgstr "বিষয়টি সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+msgid "student"
+msgstr "শিক্ষার্থী"
+
+msgid "Student"
+msgstr "শিক্ষার্থী"
+
+msgid "First"
+msgstr "প্রথম"
+
+msgid "Last"
+msgstr "শেষ"
+
+msgid "View Cart"
+msgstr "ভিউ কার্ট"
+
+msgid "Doha"
+msgstr "দোহা"
+
+msgid "messages history"
+msgstr "পূর্বের বার্তাগুলি"
+
+msgid "courses are taken"
+msgstr "কোর্স গ্রহণ করা হয়"
+
+msgid "courses are in progress"
+msgstr "কোর্স চলছে"
+
+msgid "new messages"
+msgstr "নতুন বার্তা"
+
+msgid "My Account"
+msgstr "আমার অ্যাকাউন্ট"
+
+msgid "Account management"
+msgstr "অ্যাকাউন্ট ব্যবস্থাপনা"
+
+msgid "invoices archive"
+msgstr "ইনভয়েস আর্কাইভ"
+
+msgid "new invoices"
+msgstr "নতুন ইনভয়েস"
+
+msgid "new results posted"
+msgstr "নতুন ফলাফল পোস্ট করা হয়েছে"
+
+msgid "new posts"
+msgstr "নতুন পোস্ট"
+
+msgid "new updates"
+msgstr "নতুন আপডেট"
+
+msgid "Detail"
+msgstr "বিস্তারিত"
+
+msgid "Upcoming"
+msgstr "আসন্ন"
+
+msgid "Running"
+msgstr "চলমান"
+
+msgid "Detail"
+msgstr "বিস্তারিত"
+
+msgid "Upcoming"
+msgstr "আসন্ন"
+
+msgid "Running"
+msgstr "চলমান"
+
+msgid "Past"
+msgstr "পূর্ববর্তী"
+
+msgid "Chosen For You"
+msgstr "আপনার জন্য নির্বাচিত"
+
+msgid "Courses Dashboard"
+msgstr "কোর্স ড্যাশবোর্ড"
+
+msgid "By"
+msgstr "কর্তৃক"
+
+msgid "Position :"
+msgstr "অবস্থান  :"
+
+msgid "Join :"
+msgstr "যোগদান"
+
+msgid "Last Registered"
+msgstr "শেষ নিবন্ধিত"
+
+msgid "Last Comments"
+msgstr "শেষ মন্তব্য"
+
+msgid "Already Joined. Disable Now?"
+msgstr "ইতিমধ্যে যোগদান করেছেন,এখন নিষ্ক্রিয়?"
+
+msgid "Already Joined. Active Now?"
+msgstr "ইতিমধ্যে যোগদান করেছেন,অনলাইনে এখন?"
+
+msgid "Add new post"
+msgstr "নতুন পোস্ট যোগ করুন"
+
+msgid "post management"
+msgstr "পোস্ট ব্যবস্থাপনা"
+
+msgid "drafts"
+msgstr "খসড়া"
+
+msgid "Site parameters"
+msgstr "সাইট প্যারামিটার  "
+
+msgid "layout settings"
+msgstr "লেআউটের সেটিংস "
+
+msgid "No updates"
+msgstr "কোন আপডেট নেই"
+
+msgid "Site statistics"
+msgstr "সাইট পরিসংখ্যান"
+
+msgid "visits, users, orders stats"
+msgstr "ভিজিট,ইউজার,ক্রয় তালিকা"
+
+msgid "Orders history"
+msgstr "ক্রয়  ইতিহাস"
+
+msgid "purchases statistics"
+msgstr "ক্রয পরিসংখ্যান "
+
+msgid "new orders"
+msgstr "নতুন অর্ডার"
+
+msgid "Add New Lesson"
+msgstr "নতুন পাঠ যোগ করুন"
+
+msgid "Add New Category"
+msgstr "নতুন ক্যাটাগরি যোগ করুন"
+
+msgid "Add New Course"
+msgstr "নতুন কোর্স যোগ করুন"
+
+msgid "Add New Content"
+msgstr "নতুন বিষয়বস্তু যোগ করুন"
+
+msgid "Add New Project"
+msgstr "নতুন প্রকল্প যোগ করুন"
+
+msgid "Create Sub Unit"
+msgstr "সাব ইউনিট তৈরি করুন"
+
+msgid "Update Unit"
+msgstr "আপডেট ইউনিট"
+
+msgid "Lesson information"
+msgstr "পাঠ তথ্য "
+
+
+
+msgid "Tests"
+msgstr "পরীক্ষা"
+
+msgid "Content management"
+msgstr "কনটেন্ট ম্যানেজমেন্ট"
+
+msgid "Feedback"
+msgstr "প্রতিক্রিয়া"
+
+msgid "Lesson rules"
+msgstr "পাঠ নিয়ম"
+
+
+msgid "Users status"
+msgstr "ব্যবহারকারী অবস্থা"
+
+msgid "Scheduling"
+msgstr "পূর্বপরিকল্পনা"
+
+msgid "Lesson reports"
+msgstr "পাঠ রিপোর্ট "
+
+msgid "resources"
+msgstr "রিসোর্স"
+
+msgid "Administrator"
+msgstr "অ্যাডমিনিস্ট্রেটর"
+
+msgid ""
+msgstr ""
+
+
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

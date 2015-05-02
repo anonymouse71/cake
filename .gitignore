@@ -1,0 +1,7 @@
+tmp/*
+[Cc]onfig/database.php
+app/tmp/*
+app/[Cc]onfig/database.php
+app/.DS_Store
+!empty
+.idea/*

@@ -1,0 +1,19 @@
+/*Question title css*/
+.question-title{
+ background:#f8f8f8;
+    padding:1px;
+}
+
+/*description css on lesson_info.html*/
+
+.description{
+    background-color: #F5F5F5;
+    padding: 10px;
+}
+/* This css  for */
+#map-canvas {
+    width: 450px;
+    height: 300px;
+    padding: 5px;
+}
+

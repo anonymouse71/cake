@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+        <?php echo Configure::read('Site.title.admin');?> -
+        <?php  echo $title_for_layout; ?>
+    </title>
+    <?php // echo $this->Html->script('jquery'); ?>
+    <?php
+
+    echo $this->Html->meta('icon');
+    echo $this->Html->css('/bou/css/normalize');
+    echo $this->Html->css('/bou/css/font-awesome.min');
+    echo $this->Html->css('/bou/css/bootstrap.min');
+    echo $this->Html->css('/bou/css/responsive-calendar');
+    echo $this->Html->css('/bou/css/londinium-theme');
+    echo $this->Html->css('/bou/css/style');
+    echo $this->Html->css('/bou/css/styles-dashboard');
+    echo $this->Html->css('/bou/css/icons');
+    echo $this->Html->css('/gebo/lib/stepy/css/jquery.stepy');
+
+    echo $this->fetch('meta');
+    echo $this->fetch('css');
+
+
+
+    ?>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <?php echo $this->Html->script(array('jquery.cookie','jquery.treeview','custom-treeview')) ?>
+    <?php echo $this->Html->css('/bou/css/jquery.treeview') ?>
+
+    <?php echo $this->Html->css('http://vjs.zencdn.net/4.11/video-js.css',array('inline'=>false)); ?>
+    <?php echo $this->Html->script('http://vjs.zencdn.net/4.11/video.js',array('inline'=>false)); ?>
+</head>
+
+<body>
+
+<?php
+
+if($this->params['controller']=='lessons' && ($this->params['action']=='view' || $this->params['action']=='detail')){
+    if(isset($this->params['pass'][0])){
+        $lessonId = $this->params['pass'][0];
+    }
+}
+?>
+
+<?php
+
+if($this->params['controller']=='courses' && ($this->params['action']=='view' || $this->params['action']=='detail')){
+    if(isset($this->params['pass'][0])){
+        $courseId = $this->params['pass'][0];
+    }
+}
+?>
+
+<script>
+
+    var wr          = '<?php echo $this->base;?>';
+    var userid      = '<?php  echo array_key_exists('User',$_user)? $_user['User']['id']:'' ?>';
+    var courseId    = '<?php echo (isset($courseId) && !empty($courseId))? $courseId : '' ?>';
+    var lessonId    = '<?php echo (isset($lessonId) && !empty($lessonId))? $lessonId : '' ?>';
+
+</script>
+
+<?php echo $this->element('partials/header') ?>
+
+<section id="main-container" class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <?php //echo $this->element('partials/backoffice/breadcrumb') ?>
+
+            <!-- Page container -->
+            <div class="page-container">
+
+                <!-- Page Content -->
+                <div class="row">
+
+                    <div class="col-md-12">
+
+                        <?php if($this->Session->check('Message.flash')): ?>
+                            <div class="alert alert-danger fade in block">
+                                <button type="button" class="close" data-dismiss="alert">×</button>
+                                <i class="icon-info"></i>  <?php echo $this->Session->flash(); ?>
+                            </div>
+                        <?php endif; ?>
+
+                        <?php echo $this->fetch('content'); ?>
+
+                    </div>
+
+                    <!-- <div class="col-md-<?php //echo (12-$col_md_val);?>">
+
+                        <?php //echo $this->element('dashboards/right-pane-'.strtolower($_user['UserGroup']['name'])); ?>
+
+                    </div> -->
+
+                </div>
+                <!-- /Page Content -->
+
+            </div>
+            <!-- /page container -->
+
+        </div>
+    </div>
+</section>
+
+<?php echo $this->element('partials/footer') ?>
+
+
+
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<?php echo $this->Html->script('/bou/js/jquery-ui.min'); ?>
+
+<?php echo $this->Html->script('/gebo/js/jquery.debouncedresize.min'); ?>
+<?php echo $this->Html->script('/gebo/js/jquery.actual.min'); ?>
+<?php echo $this->Html->script('/gebo/js/jquery.cookie.min'); ?>
+
+<?php echo $this->Html->script('/bou/js/bootstrap.min'); ?>
+
+
+<?php echo $this->Html->script('/gebo/lib/antiscroll/antiscroll'); ?>
+<?php echo $this->Html->script('/gebo/lib/stepy/js/jquery.stepy.min'); ?>
+<?php echo $this->Html->script('/gebo/js/gebo_wizard'); ?>
+
+
+
+<?php echo $this->Html->script('/bou/js/plugins/charts/sparkline.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/uniform.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/select2.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/inputmask'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/autosize'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/inputlimit.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/listbox'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/multiselect'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/validate.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/tags.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/switch.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/uploader/plupload.full.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/uploader/plupload.queue.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/wysihtml5/wysihtml5.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/forms/wysihtml5/toolbar'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/interface/daterangepicker'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/interface/fancybox.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/interface/moment'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/interface/jgrowl.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/interface/datatables.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/interface/colorpicker'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/interface/fullcalendar.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/interface/timepicker.min'); ?>
+<?php echo $this->Html->script('/bou/js/plugins/interface/collapsible.min'); ?>
+<?php echo $this->Html->script('/bou/js/responsive-calendar'); ?>
+<?php echo $this->Html->script('/bou/js/application'); ?>
+<script type="text/javascript" src="<?php echo $this->webroot ?>ckeditor/ckeditor.js"></script>
+
+
+<?php   echo $this->fetch('script'); ?>
+
+<script>
+    
+    var wr = '<?php echo $this->base;?>';
+    var content = null;
+    $(document).ready(function(){
+
+        $.ajax({
+            'url':"http://localhost/lmsfinal/Blogs/blogComment/3/",
+
+            'dataType':'json'
+        }).success(function(data){
+            console.log(data);
+            $(data.comment).each(function(index,item){
+                console.log(item.Comment.id);
+                console.log(item.Comment.data);
+
+                $('#blog_comment').append("<li>"+"<a href="+wr+"/comments/view/"+item.Comment.id+">"+item.Comment.data+"</a>"+"</li>");
+
+            });
+        }) ;
+
+
+    });
+</script>
+
+<?php echo $this->fetch('scriptURL'); ?>
+<?php echo $this->fetch('jsRegion') ?>
+
+
+<!--<script>-->
+<!--    var content = null;-->
+<!--    $(document).ready(function(){-->
+<!---->
+<!--        $.ajax({-->
+<!--            'url':'http://localhost/lmsfinal/Blogs/blogComment/3/',-->
+<!--            'dataType':'json'-->
+<!--        }).success(function(data){-->
+<!--//            console.log(data);-->
+<!--            $(data.comment).each(function(index,item){-->
+<!--             console.log(item.Comment.id);-->
+<!--             console.log(item.Comment.data);-->
+<!---->
+<!--             $('#blog_comment').append("<li><a href=announcements/view/'"+item.Comment.id+">"+item.Comment.data+"</a></li>");-->
+<!---->
+<!--        });-->
+<!--    }) ;-->
+<!--    });-->
+<!---->
+<!---->
+<!--</script>-->
+
+
+
+</body>
+</html>
+

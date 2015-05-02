@@ -1,0 +1,68 @@
+	<!-- Login wrapper -->
+   <?php if($this->Session->check('Message.flash')){ ?>
+    <div class="alert alert-warning fade in block">
+			                <button type="button" class="close" data-dismiss="alert">×</button>
+			                <i class="icon-info"></i>  <?php echo $this->Session->flash(); ?>
+			            </div>
+   <?php } ?>
+	<div class="login-wrapper">
+    	<?php echo $this->Form->create('User', array('action' => 'register')); ?>
+			<div class="popup-header">
+				<a href="#" class="pull-left"><i class="icon-user-plus"></i></a>
+				<span class="text-semibold">User Registration 1</span>
+				<div class="btn-group pull-right">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cogs"></i></a>
+                    <ul class="dropdown-menu icons-right dropdown-menu-right">
+						<!-- <li><a href="#"><i class="icon-people"></i> Change user</a></li> -->
+                        <li><?php echo $this->Html->link(__("<i class=\"icon-info\"></i>Forgot Password?",true),"/forgotPassword",array("escape"=>false)) ?></li>
+                        
+						<li><?php echo $this->Html->link(__("<i class=\"icon-support\"></i>Sign Up",true),"/register",array("escape"=>false)) ?> </a></li>
+                    </ul>
+				</div>
+			</div>
+			<div class="well">
+				
+                <?php echo $this->Form->input("user_group_id" ,array('type' => 'hidden', 'label' => false,'div' => false,'value'=>"2" ))?>
+                
+                <div class="form-group has-feedback">
+					<?php echo $this->Form->input("username" ,array('label' => 'Username','div' => false,'class'=>"form-control" ))?><i class="icon-users form-control-feedback"></i>
+				</div>
+                
+                 <div class="form-group has-feedback">
+					<?php echo $this->Form->input("first_name" ,array('label' => 'First Name','div' => false,'class'=>"form-control" ))?><i class="icon-users form-control-feedback"></i>
+				</div>
+                
+                <div class="form-group has-feedback">
+					<?php echo $this->Form->input("last_name" ,array('label' => 'Last Name','div' => false,'class'=>"form-control" ))?><i class="icon-users form-control-feedback"></i>
+				</div>
+                
+                <div class="form-group has-feedback">
+					<?php echo $this->Form->input("email" ,array('label' => 'Email','Placeholder'=>'Email','div' => false,'class'=>"form-control" ))?><i class="icon-users form-control-feedback"></i>
+				</div>
+
+ <div class="form-group has-feedback">
+					<?php echo $this->Form->input("password" ,array("type"=>"password",'label' => "Password",'div' => false,'class'=>"form-control" ))?><i class="icon-lock form-control-feedback"></i>
+				</div>
+                    
+                    <div class="form-group has-feedback">
+					<?php echo $this->Form->input("cpassword" ,array("type"=>"password",'label' => 'Confirm Password','div' => false,'class'=>"form-control" ))?><i class="icon-lock form-control-feedback"></i>
+				</div>
+                
+                
+
+					<div class="col-xs-6">
+						<button type="submit" class="btn btn-warning pull-right"><i class="icon-menu2"></i> Sign Up</button>
+					</div>
+				</div>
+			</div>
+    	</form>
+	</div>  
+	<!-- /login wrapper -->
+    
+    
+    
+    
+
+<script>
+document.getElementById("UserUsername").focus();
+</script>

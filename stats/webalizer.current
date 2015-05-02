@@ -1,0 +1,613 @@
+# Webalizer V2.23-08 Incremental Data - 12/15/2014 22:52:47
+2014 12 15 22 52 47
+2856 2163 2 177 61 7 31265475 666 16 0 0 0
+1 250 367 14 15
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1253 869 11242281 2 230 8 0 0
+1603 1294 20023194 1 436 8 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+25 25 530522 10 0 0
+354 274 5280630 208 0 0
+149 99 1400715 117 0 0
+18 14 164798 16 0 0
+344 263 4229697 79 0 0
+0 0 0 0 0 0
+187 55 2115101 64 0 0
+544 436 4346536 54 0 0
+439 332 3257892 33 0 0
+179 152 2793998 13 0 0
+367 308 2927097 20 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+250 205 4218489 52 0 0
+0 0 0 0 0 0
+0
+0
+0
+2163
+0
+0
+0
+0
+0
+0
+0
+2
+174
+0
+439
+0
+0
+0
+0
+0
+0
+50
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+28
+0
+0
+0
+0
+0
+# -urls- 
+/courses/view/10
+0 1 0 5612 0 0 0 0
+/TinyMCE/js/tiny_mce/tiny_mce.js
+0 67 0 607840 0 0 0 0
+/courses/view/8
+0 1 0 6247 0 0 0 0
+/bou-all/bou-salim/img/child.jpg
+1 1 0 235353 0 0 0 0
+/bou/img/treeview-red.gif
+1 1 0 1515 0 0 0 0
+/contents/add/18
+0 2 0 10657 0 0 0 0
+/bou/js/plugins/forms/uploader/plupload.full.min.js
+0 28 0 987728 0 0 0 0
+/js/jquery.treeview.js
+0 45 0 129833 0 0 0 0
+/bou/js/application.js
+0 28 0 199895 0 0 0 0
+/img/ajaxloader.gif
+1 1 0 5617 0 0 0 0
+/bou-all/bou-salim/
+0 1 0 1741 0 0 0 0
+/ckeditor/lang/en.js
+0 1 0 6400 0 0 0 0
+/register
+0 5 0 14804 0 0 0 0
+/bou/images/interface/tables/sort_asc.png
+1 7 0 13261 0 0 0 0
+/aboutus
+0 1 0 3169 0 0 0 0
+/phpmyadmin/
+0 5 0 19886 0 0 0 0
+/bou/js/plugins/forms/select2.min.js
+0 28 0 479505 0 0 0 0
+/courses/edit/15
+0 1 0 5252 0 0 0 0
+/js/jquery.cookie.js
+0 45 0 76101 0 0 0 0
+/permissions/
+0 8 0 50074 0 0 0 0
+/ckeditor/styles.js
+0 1 0 1711 0 0 0 0
+/update_permission
+0 46 0 11084 1 1 0 0
+/bou/js/plugins/forms/tags.min.js
+0 28 0 102676 0 0 0 0
+/bou/js/plugins/interface/colorpicker.js
+0 28 0 117740 0 0 0 0
+/bou/img/treeview-red-line.gif
+1 1 0 2162 0 0 0 0
+/courses/course_info/16
+0 1 0 4953 0 0 0 0
+/usermgmt/img/approve.png
+1 1 0 3902 0 0 0 0
+/bou/css/normalize.css
+0 55 0 163687 0 0 0 0
+/viewUser/4
+0 1 0 5321 0 0 0 0
+/img/logo.png
+1 56 0 240941 0 0 0 0
+/lessons
+0 27 0 164549 0 0 0 0
+/files/photos/548ead9c-1d54-408d-9744-597d6715296b.jpg
+1 4 0 149975 0 0 0 0
+/changePassword
+0 1 0 5285 0 0 0 0
+/bou/js/jquery-ui.min.js
+0 55 0 3359628 0 0 0 0
+/accessDenied
+0 11 0 54510 0 1 0 0
+/bou-all/bou-salim/img/border.jpg
+1 1 0 1410 0 0 0 0
+/bou/js/plugins/interface/jgrowl.min.js
+0 28 0 54600 0 0 0 0
+/lessons/view/13
+0 7 0 39218 0 0 0 0
+/bou-all/bou-salim/css/style.css
+0 1 0 4425 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/logo_left.png
+1 1 0 2561 0 0 0 0
+/bou/fonts/fontawesome-webfont.woff
+0 42 0 594738 0 0 0 0
+/courses/detail/14
+0 3 0 24143 0 0 0 0
+/ckeditor/skins/moono/editor.css
+0 1 0 6010 0 0 0 0
+/courses/view/13
+0 5 0 27179 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/arrow_ltr.png
+1 1 0 422 0 0 0 0
+/updateProfile/img/course-1.jpg
+1 6 0 34505 0 0 0 0
+/allGroups
+0 3 0 16807 0 0 0 0
+/js/custom-treeview.js
+0 45 0 28535 0 0 0 0
+/files/photos/548eb0ed-64d0-4275-bc6a-26ea6715296b.jpg
+1 4 0 24951 0 0 0 0
+/courses/edit/13
+0 1 0 5260 0 0 0 0
+/phpmyadmin/js/get_image.js.php
+0 2 0 13558 0 1 0 0
+/img/course-1.jpg
+1 3 0 9869 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_no_favorite.png
+1 1 0 777 0 0 0 0
+/usermgmt/js/umupdate.js
+0 7 0 3723 0 0 0 0
+/bou-all/bou-salim/css/font-awesome.min.css
+0 1 0 5034 0 0 0 0
+/bou/js/plugins/interface/fancybox.min.js
+0 28 0 251580 0 0 0 0
+/bou/js/plugins/charts/sparkline.min.js
+0 28 0 374419 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/col_drop.png
+1 1 0 415 0 0 0 0
+/phpmyadmin/navigation.php
+0 1 0 39643 0 0 0 0
+/bou/images/interface/filter.png
+1 8 0 6423 0 0 0 0
+/bou/css/style.css
+0 55 0 242035 0 0 0 0
+/img/cake.power.gif
+1 56 0 11799 0 0 0 0
+/files/user/photo/4/BOUniversity.gif
+1 36 0 88056 0 0 0 0
+/bou/js/plugins/interface/timepicker.min.js
+0 28 0 80417 0 0 0 0
+/bou-all/bou-salim/img/heritage.jpg
+1 1 0 273852 0 0 0 0
+/files/photos/548ab7fc-0928-4cc8-98f7-133cfcf384cf.jpg
+1 10 0 549162 0 0 0 0
+/bou-all/bou-salim/js/bootstrap.min.js
+0 1 0 7870 0 0 0 0
+/favicon.ico
+0 20 0 15938 0 0 0 0
+/bou/js/plugins/forms/wysihtml5/wysihtml5.min.js
+0 28 0 914088 0 0 0 0
+/permissions
+0 6 0 31357 1 0 0 0
+/bou/js/plugins/forms/inputmask.js
+0 28 0 93747 0 0 0 0
+/img/avatar.png
+1 7 0 44731 0 0 0 0
+/files/photos/548eaf0d-793c-4117-be04-597d6715296b.png
+1 4 0 14806 0 0 0 0
+/bou/css/londinium-theme.css
+0 45 0 596866 0 0 0 0
+/bou-all/bou-salim/img/banner.jpg
+1 1 0 674659 0 0 0 0
+/bou/images/forms/choice.png
+1 2 0 2598 0 0 0 0
+/lessons/get_content
+0 18 0 13146 0 0 0 0
+/ckeditor/contents.css
+0 1 0 1220 0 0 0 0
+/bou/js/plugins/interface/daterangepicker.js
+0 28 0 200900 0 0 0 0
+/addGroup
+0 2 0 10144 0 0 0 0
+/files/photos/548ab7e0-b360-43fe-8007-133cfcf384cf.jpg
+1 10 0 91694 0 0 0 0
+/ckeditor/skins/moono/icons.png
+1 1 0 21120 0 0 0 0
+/bou/css/responsive-calendar.css
+0 45 0 32119 0 0 0 0
+/contents/add/15
+0 2 0 10656 0 0 0 0
+/allUsers
+0 3 0 16633 0 0 0 0
+/bou/images/forms/clear_results.png
+1 4 0 2851 0 0 0 0
+/ckeditor/config.js
+0 1 0 610 0 0 0 0
+/bou/js/plugins/interface/fullcalendar.min.js
+0 28 0 513997 0 0 0 0
+/bou/js/plugins/interface/collapsible.min.js
+0 28 0 44213 0 0 0 0
+/bou/js/plugins/forms/switch.min.js
+0 28 0 72044 0 0 0 0
+/bou/js/plugins/forms/inputlimit.min.js
+0 28 0 36430 0 0 0 0
+/dashboard
+0 18 0 104034 1 1 0 0
+/img/tech.jpg
+1 4 0 5736 0 0 0 0
+/updateProfile/img/course-2.jpg
+1 6 0 34506 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/col_pointer.png
+1 1 0 397 0 0 0 0
+/lessons/add
+0 12 0 65169 0 1 0 0
+/editUser/4
+0 1 0 5786 0 0 0 0
+/contents
+0 21 0 129398 0 0 0 0
+/lessons/view/20
+0 2 0 11568 0 1 0 0
+/courses/add
+0 6 0 32660 0 0 0 0
+/lessons/edit/18
+0 1 0 5376 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/jquery-ui-1.9.2.custom.css
+0 2 0 13029 0 0 0 0
+/bou/js/plugins/interface/moment.js
+0 28 0 304696 0 0 0 0
+/lessons/
+0 11 0 67378 1 0 0 0
+/login
+0 165 0 383085 3 5 0 0
+/bou/js/plugins/forms/validate.min.js
+0 28 0 187964 0 0 0 0
+/phpmyadmin/js/get_scripts.js.php
+0 5 0 3307406 1 0 0 0
+/bou/js/plugins/forms/uploader/plupload.queue.min.js
+0 28 0 69189 0 0 0 0
+/img/banner.jpg
+1 13 0 2700275 0 0 0 0
+/bou/images/interface/vertical_arrows.png
+1 7 0 5587 0 0 0 0
+/bou/js/plugins/forms/listbox.js
+0 28 0 52697 0 0 0 0
+/bou/fonts/glyphicons-halflings-regular.woff
+0 40 0 171254 0 0 0 0
+/bou/js/bootstrap.min.js
+0 55 0 441651 0 0 0 0
+/usermgmt/img/loading.gif
+1 3 0 9357 0 0 0 0
+/lessons/view/15
+0 1 0 5688 0 0 0 0
+/updateProfile/4
+0 5 0 31320 0 1 0 0
+/updateProfile/img/course-3.jpg
+1 6 0 34506 0 0 0 0
+/phpmyadmin/js/messages.php
+0 3 0 54757 0 0 0 0
+/img/course-2.jpg
+1 3 0 14256 0 0 0 0
+/phpmyadmin/favicon.ico
+0 2 0 38409 0 0 0 0
+/phpmyadmin/db_structure.php
+0 2 0 148596 0 0 0 0
+/courses/view/9
+0 2 0 11469 0 0 0 0
+/phpmyadmin/sql.php
+0 2 0 60259 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif
+1 1 401 2095 0 0 0 0
+/bou-all/bou-salim/fonts/fontawesome-webfont.woff
+0 1 0 84060 0 0 0 0
+/files/photos/548ab78d-f498-4ac5-b160-133cfcf384cf.jpg
+1 10 0 472161 0 0 0 0
+/bou/images/interface/breadcrumb_home.png
+1 33 0 14871 0 0 0 0
+/img/course-3.jpg
+1 3 0 20264 0 0 0 0
+/bou/images/border.jpg
+1 55 0 20910 0 0 0 0
+/contents/add/13
+0 2 0 10666 0 0 0 0
+/lessons/view/18
+0 1 0 5601 0 0 0 0
+/phpmyadmin/phpmyadmin.css.php
+0 3 0 58450 0 0 0 0
+/contents/add/17
+0 2 0 10667 0 0 0 0
+/
+0 24 0 64175 8 0 0 0
+/bou/css/jquery.treeview.css
+0 45 0 45363 0 0 0 0
+/editGroup/2
+0 1 0 5765 0 0 0 0
+/contents/add/14
+0 2 0 10670 0 0 0 0
+/courses/course_info/13
+0 1 0 5317 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/logo_right.png
+1 2 0 9156 0 0 0 0
+/courses/edit/12
+0 1 0 5258 0 0 0 0
+/bou/css/font-awesome.min.css
+0 55 0 276855 0 0 0 0
+/bou/images/interface/arrow_right.png
+1 1 0 1256 0 0 0 0
+/lessons/view/19
+0 1 0 6714 0 0 0 0
+/addUser
+0 3 0 16194 0 0 0 0
+/bou/css/icons/icons.woff
+0 40 0 1136657 0 0 0 0
+/files/photos/548ab826-0a80-4fdf-bffa-133cfcf384cf.jpg
+1 10 0 76436 0 0 0 0
+/editGroup/4
+0 1 0 5766 0 0 0 0
+/courses/view/11
+0 1 0 5633 0 0 0 0
+/bou/js/plugins/interface/datatables.min.js
+0 28 0 615190 0 0 0 0
+/bou/css/icons.css
+0 55 0 520932 0 0 0 0
+/contactus
+0 1 0 3168 0 0 0 0
+/phpmyadmin/themes/dot.gif
+1 2 0 650 0 0 0 0
+/bou-all/bou-salim/img/cox-bazar.jpg
+1 1 0 45122 0 0 0 0
+/courses/detail/12
+0 5 0 50211 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/left_nav_bg.png
+1 1 0 511 0 0 0 0
+/bou/js/plugins/forms/autosize.js
+0 28 0 49842 0 0 0 0
+/bou/images/interface/tables/sort_both.png
+1 7 0 6230 0 0 0 0
+/contents/add/20
+0 2 0 10660 0 0 0 0
+/courses
+0 22 0 131637 0 2 0 0
+/courses/
+0 7 0 41988 0 0 0 0
+/contents/add/19
+0 2 0 10662 0 0 0 0
+/bou/css/styles-dashboard.css
+0 55 0 1199075 0 0 0 0
+/files/photos/548eb027-f03c-4df9-ab61-2a416715296b.jpg
+1 5 0 18307 0 0 0 0
+/bou-all/bou-salim/css/normalize.css
+0 1 0 2976 0 0 0 0
+/bou/js/responsive-calendar.js
+0 33 0 120551 0 0 0 0
+/myprofile
+0 4 0 17433 0 0 0 0
+/bou/images/interface/arrow_left.png
+1 1 0 1258 0 0 0 0
+/bou/css/bootstrap.min.css
+0 55 0 962599 0 0 0 0
+/files/photos/548eae59-c51c-4c3d-ba40-23d86715296b.jpg
+1 10 0 38664 0 0 0 0
+/ckeditor/ckeditor.js
+0 1 0 158275 0 0 0 0
+/bou/js/plugins/forms/uniform.min.js
+0 28 0 94588 0 0 0 0
+/bou-all/bou-salim/css/bootstrap.min.css
+0 1 0 19057 0 0 0 0
+/bou/js/plugins/forms/multiselect.js
+0 28 0 189644 0 0 0 0
+/bou/js/plugins/forms/wysihtml5/toolbar.js
+0 28 0 129052 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_fulltext.png
+1 1 0 456 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/sprites.png
+1 2 0 81142 0 0 0 0
+/bou-all/bou-salim/img/logo.png
+1 1 0 29038 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+103.21.41.105
+0 2078 1695 25179578 10 1418683967 0 0
+/courses/detail/14
+103.21.41.106
+0 778 468 6085897 6 1418563280 0 0
+/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+103.21.41.105
+0 1603 1294 20023194 8 1418683967 0 0
+/courses/detail/14
+# End Of Table - sites (daily)
+# -referrers- 
+http://bou3.bpopower.com/contents/add/15
+1 4
+http://bou3.bpopower.com/courses/view/9
+1 2
+http://bou3.bpopower.com/courses/view/11
+1 1
+http://bou3.bpopower.com/contents
+1 23
+http://bou3.bpopower.com/permissions
+1 197
+http://bou3.bpopower.com/bou-all/bou-salim/css/style.css
+1 1
+http://bou3.bpopower.com/contents/add/18
+1 4
+http://bou3.bpopower.com/courses/view/8
+1 1
+http://bou3.bpopower.com/phpmyadmin/index.php
+1 17
+http://bou3.bpopower.com/bou-all/bou-salim/css/font-awesome.min.css
+1 1
+http://bou3.bpopower.com/courses/view/13
+1 104
+http://bou3.bpopower.com/contents/add/20
+1 4
+http://bou3.bpopower.com/addUser
+1 6
+http://bou3.bpopower.com/editGroup/4
+1 2
+http://bou3.bpopower.com/bou/css/font-awesome.min.css
+1 13
+http://bou3.bpopower.com/allGroups
+1 3
+http://bou3.bpopower.com/lessons/
+1 9
+http://bou3.bpopower.com/courses/course_info/13
+1 48
+http://bou3.bpopower.com/contents/add/17
+1 4
+http://bou3.bpopower.com/bou-all/bou-salim/
+1 10
+http://bou3.bpopower.com/bou/css/bootstrap.min.css
+1 10
+http://bou3.bpopower.com/courses/edit/13
+1 2
+http://bou3.bpopower.com/lessons/view/15
+1 4
+http://bou3.bpopower.com/register
+1 70
+http://bou3.bpopower.com/phpmyadmin/
+1 16
+http://bou3.bpopower.com/changePassword
+1 1
+http://bou3.bpopower.com/phpmyadmin/phpmyadmin.css.php
+1 5
+http://bou3.bpopower.com/allUsers
+1 50
+http://bou3.bpopower.com/permissions/
+1 243
+http://bou3.bpopower.com/contents/add/14
+1 4
+http://bou3.bpopower.com/lessons/add
+1 61
+- (Direct Request)
+0 208
+http://bou3.bpopower.com/courses/
+1 7
+http://bou3.bpopower.com/ckeditor/skins/moono/editor.css
+1 1
+http://bou3.bpopower.com/myprofile
+1 52
+http://bou3.bpopower.com/bou/css/icons.css
+1 11
+http://bou3.bpopower.com/courses/edit/12
+1 2
+http://bou3.bpopower.com/lessons/view/13
+1 25
+http://bou3.bpopower.com/lessons
+1 69
+http://bou3.bpopower.com/bou/css/londinium-theme.css
+1 15
+http://bou3.bpopower.com/accessDenied
+1 12
+http://bou3.bpopower.com/bou/css/styles-dashboard.css
+1 62
+http://bou3.bpopower.com/courses/add
+1 10
+http://bou3.bpopower.com/editGroup/2
+1 2
+http://bou3.bpopower.com/login
+1 532
+http://bou3.bpopower.com/courses/view/10
+1 1
+http://bou3.bpopower.com/courses/edit/15
+1 2
+http://bou3.bpopower.com/addGroup
+1 1
+http://bou3.bpopower.com/
+1 187
+http://bou3.bpopower.com/dashboard
+1 431
+http://bou3.bpopower.com/courses/detail/14
+1 1
+http://bou3.bpopower.com/bou/css/jquery.treeview.css
+1 2
+http://bou3.bpopower.com/contents/add/19
+1 4
+http://bou3.bpopower.com/lessons/view/19
+1 7
+http://bou3.bpopower.com/courses/detail/12
+1 81
+http://bou3.bpopower.com/lessons/edit/18
+1 2
+http://bou3.bpopower.com/courses
+1 120
+http://bou3.bpopower.com/editUser/4
+1 3
+http://bou3.bpopower.com/updateProfile/4
+1 68
+http://bou3.bpopower.com/contents/add/13
+1 10
+http://bou3.bpopower.com/lessons/view/20
+1 8
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0
+0 300
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 60
+OSSProxy 1.3.337.344 (Build 337.344 Win32 en-us)(Oct 31 2014 12:56:00)
+0 9
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36
+0 1091
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+0 62
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 427
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:34.0) Gecko/20100101 Firefox/34.0
+0 907
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
